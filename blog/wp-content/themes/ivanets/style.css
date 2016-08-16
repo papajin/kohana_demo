@@ -1,0 +1,109 @@
+/*
+Theme Name: Ivanets
+Theme URI: http://ihor.ivanets.com/
+Description: Wordpress custom theme
+Version: 2.0
+Author: Ihor Ivanets
+Author URI: http://ihor.ivanets.com/
+Text Domain: ivanets
+Domain Path: /languages
+*/
+
+.btn {
+    min-width: 0;
+}
+.blogpost .blogpost-content {
+    margin-left: 0;
+}
+
+.wp-pagenavi {
+    width: 100%;
+    margin: 20px 0 40px;
+}
+.wp-pagenavi a, .wp-pagenavi span:not(.pages) {
+    display: inline-block;
+    padding: 10px 15px;
+    background-color: #fafafa;
+    border: 1px solid #f3f3f3;
+    line-height: 1;
+    margin: 10px 5px 0 0;
+    font-size: 12px;
+    color: #666;
+}
+.wp-pagenavi span {
+    margin-right: 1rem;
+    font-size: 75%;
+}
+.wp-pagenavi span.pages:after {
+    content: "\a";
+    white-space: pre;
+}
+.wp-pagenavi span.pages {
+    color: #999;
+}
+.wp-pagenavi span.current, .wp-pagenavi a:hover {
+    color: #fff;
+    background-color: #599f06;
+    border-color: #599f06;
+    text-decoration: none;
+}
+.wp-pagenavi a:focus {
+    background: none;
+    border-color: #ddd;
+}
+.pull-right {
+    float: right!important;
+}
+.pull-left {
+    float: left!important;
+}
+#menu-essay {
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+}
+#menu-essay li {
+    float: none;
+    position: relative;
+    display: block;
+}
+#menu-essay li.current-menu-item > a,
+#menu-essay li > a:focus,
+#menu-essay li > a:hover {
+    border: 1px solid #f3f3f3;
+    color: #599f06;
+    background-color: #fafafa;
+    text-decoration: none;
+}
+#menu-essay li > a {
+    border-radius: 0;
+    padding: 10px 15px;
+    border: 1px solid transparent;
+    color: #666666;
+    font-size: 13px;
+    text-transform: uppercase;
+    font-weight: 700;
+    position: relative;
+    display: block;
+}
+#menu-essay li > a:after {
+    font-family: "fontello";
+    content: "";
+    font-size: 14px;
+    font-weight: 700;
+    position: absolute;
+    right: 15px;
+    top: 9px;
+    color: #d1d1d1;
+    -webkit-transition: all 0.2s ease-in-out;
+    -moz-transition: all 0.2s ease-in-out;
+    -o-transition: all 0.2s ease-in-out;
+    -ms-transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out;
+}
+#menu-essay li.current-menu-item > a:after,
+#menu-essay li > a:focus:after,
+#menu-essay li > a:hover:after {
+    color: #599f06;
+    right: 10px;
+}

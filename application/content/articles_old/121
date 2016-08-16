@@ -1,0 +1,688 @@
+<p><!--[if gte mso 9]><xml>
+<w:WordDocument>
+<w:View>Normal</w:View>
+<w:Zoom>0</w:Zoom>
+<w:TrackMoves />
+<w:TrackFormatting />
+<w:HyphenationZone>21</w:HyphenationZone>
+<w:PunctuationKerning />
+<w:ValidateAgainstSchemas />
+<w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+<w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+<w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+<w:DoNotPromoteQF />
+<w:LidThemeOther>UK</w:LidThemeOther>
+<w:LidThemeAsian>X-NONE</w:LidThemeAsian>
+<w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+<w:Compatibility>
+<w:BreakWrappedTables />
+<w:SnapToGridInCell />
+<w:WrapTextWithPunct />
+<w:UseAsianBreakRules />
+<w:DontGrowAutofit />
+<w:SplitPgBreakAndParaMark />
+<w:DontVertAlignCellWithSp />
+<w:DontBreakConstrainedForcedTables />
+<w:DontVertAlignInTxbx />
+<w:Word11KerningPairs />
+<w:CachedColBalance />
+</w:Compatibility>
+<m:mathPr>
+<m:mathFont m:val="Cambria Math" />
+<m:brkBin m:val="before" />
+<m:brkBinSub m:val="&#45;-" />
+<m:smallFrac m:val="off" />
+<m:dispDef />
+<m:lMargin m:val="0" />
+<m:rMargin m:val="0" />
+<m:defJc m:val="centerGroup" />
+<m:wrapIndent m:val="1440" />
+<m:intLim m:val="subSup" />
+<m:naryLim m:val="undOvr" />
+</m:mathPr></w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
+DefSemiHidden="true" DefQFormat="false" DefPriority="99"
+LatentStyleCount="267">
+<w:LsdException Locked="false" Priority="0" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Normal" />
+<w:LsdException Locked="false" Priority="9" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="heading 1" />
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 2" />
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 3" />
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 4" />
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 5" />
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 6" />
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 7" />
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 8" />
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 9" />
+<w:LsdException Locked="false" Priority="39" Name="toc 1" />
+<w:LsdException Locked="false" Priority="39" Name="toc 2" />
+<w:LsdException Locked="false" Priority="39" Name="toc 3" />
+<w:LsdException Locked="false" Priority="39" Name="toc 4" />
+<w:LsdException Locked="false" Priority="39" Name="toc 5" />
+<w:LsdException Locked="false" Priority="39" Name="toc 6" />
+<w:LsdException Locked="false" Priority="39" Name="toc 7" />
+<w:LsdException Locked="false" Priority="39" Name="toc 8" />
+<w:LsdException Locked="false" Priority="39" Name="toc 9" />
+<w:LsdException Locked="false" Priority="35" QFormat="true" Name="caption" />
+<w:LsdException Locked="false" Priority="10" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Title" />
+<w:LsdException Locked="false" Priority="1" Name="Default Paragraph Font" />
+<w:LsdException Locked="false" Priority="11" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Subtitle" />
+<w:LsdException Locked="false" Priority="22" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Strong" />
+<w:LsdException Locked="false" Priority="20" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Emphasis" />
+<w:LsdException Locked="false" Priority="59" SemiHidden="false"
+UnhideWhenUsed="false" Name="Table Grid" />
+<w:LsdException Locked="false" UnhideWhenUsed="false" Name="Placeholder Text" />
+<w:LsdException Locked="false" Priority="1" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="No Spacing" />
+<w:LsdException Locked="false" Priority="60" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Shading" />
+<w:LsdException Locked="false" Priority="61" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light List" />
+<w:LsdException Locked="false" Priority="62" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Grid" />
+<w:LsdException Locked="false" Priority="63" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 1" />
+<w:LsdException Locked="false" Priority="64" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 2" />
+<w:LsdException Locked="false" Priority="65" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 1" />
+<w:LsdException Locked="false" Priority="66" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 2" />
+<w:LsdException Locked="false" Priority="67" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 1" />
+<w:LsdException Locked="false" Priority="68" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 2" />
+<w:LsdException Locked="false" Priority="69" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 3" />
+<w:LsdException Locked="false" Priority="70" SemiHidden="false"
+UnhideWhenUsed="false" Name="Dark List" />
+<w:LsdException Locked="false" Priority="71" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Shading" />
+<w:LsdException Locked="false" Priority="72" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful List" />
+<w:LsdException Locked="false" Priority="73" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Grid" />
+<w:LsdException Locked="false" Priority="60" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Shading Accent 1" />
+<w:LsdException Locked="false" Priority="61" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light List Accent 1" />
+<w:LsdException Locked="false" Priority="62" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Grid Accent 1" />
+<w:LsdException Locked="false" Priority="63" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 1 Accent 1" />
+<w:LsdException Locked="false" Priority="64" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 2 Accent 1" />
+<w:LsdException Locked="false" Priority="65" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 1 Accent 1" />
+<w:LsdException Locked="false" UnhideWhenUsed="false" Name="Revision" />
+<w:LsdException Locked="false" Priority="34" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="List Paragraph" />
+<w:LsdException Locked="false" Priority="29" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Quote" />
+<w:LsdException Locked="false" Priority="30" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Intense Quote" />
+<w:LsdException Locked="false" Priority="66" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 2 Accent 1" />
+<w:LsdException Locked="false" Priority="67" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 1 Accent 1" />
+<w:LsdException Locked="false" Priority="68" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 2 Accent 1" />
+<w:LsdException Locked="false" Priority="69" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 3 Accent 1" />
+<w:LsdException Locked="false" Priority="70" SemiHidden="false"
+UnhideWhenUsed="false" Name="Dark List Accent 1" />
+<w:LsdException Locked="false" Priority="71" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Shading Accent 1" />
+<w:LsdException Locked="false" Priority="72" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful List Accent 1" />
+<w:LsdException Locked="false" Priority="73" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Grid Accent 1" />
+<w:LsdException Locked="false" Priority="60" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Shading Accent 2" />
+<w:LsdException Locked="false" Priority="61" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light List Accent 2" />
+<w:LsdException Locked="false" Priority="62" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Grid Accent 2" />
+<w:LsdException Locked="false" Priority="63" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 1 Accent 2" />
+<w:LsdException Locked="false" Priority="64" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 2 Accent 2" />
+<w:LsdException Locked="false" Priority="65" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 1 Accent 2" />
+<w:LsdException Locked="false" Priority="66" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 2 Accent 2" />
+<w:LsdException Locked="false" Priority="67" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 1 Accent 2" />
+<w:LsdException Locked="false" Priority="68" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 2 Accent 2" />
+<w:LsdException Locked="false" Priority="69" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 3 Accent 2" />
+<w:LsdException Locked="false" Priority="70" SemiHidden="false"
+UnhideWhenUsed="false" Name="Dark List Accent 2" />
+<w:LsdException Locked="false" Priority="71" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Shading Accent 2" />
+<w:LsdException Locked="false" Priority="72" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful List Accent 2" />
+<w:LsdException Locked="false" Priority="73" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Grid Accent 2" />
+<w:LsdException Locked="false" Priority="60" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Shading Accent 3" />
+<w:LsdException Locked="false" Priority="61" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light List Accent 3" />
+<w:LsdException Locked="false" Priority="62" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Grid Accent 3" />
+<w:LsdException Locked="false" Priority="63" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 1 Accent 3" />
+<w:LsdException Locked="false" Priority="64" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 2 Accent 3" />
+<w:LsdException Locked="false" Priority="65" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 1 Accent 3" />
+<w:LsdException Locked="false" Priority="66" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 2 Accent 3" />
+<w:LsdException Locked="false" Priority="67" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 1 Accent 3" />
+<w:LsdException Locked="false" Priority="68" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 2 Accent 3" />
+<w:LsdException Locked="false" Priority="69" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 3 Accent 3" />
+<w:LsdException Locked="false" Priority="70" SemiHidden="false"
+UnhideWhenUsed="false" Name="Dark List Accent 3" />
+<w:LsdException Locked="false" Priority="71" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Shading Accent 3" />
+<w:LsdException Locked="false" Priority="72" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful List Accent 3" />
+<w:LsdException Locked="false" Priority="73" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Grid Accent 3" />
+<w:LsdException Locked="false" Priority="60" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Shading Accent 4" />
+<w:LsdException Locked="false" Priority="61" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light List Accent 4" />
+<w:LsdException Locked="false" Priority="62" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Grid Accent 4" />
+<w:LsdException Locked="false" Priority="63" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 1 Accent 4" />
+<w:LsdException Locked="false" Priority="64" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 2 Accent 4" />
+<w:LsdException Locked="false" Priority="65" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 1 Accent 4" />
+<w:LsdException Locked="false" Priority="66" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 2 Accent 4" />
+<w:LsdException Locked="false" Priority="67" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 1 Accent 4" />
+<w:LsdException Locked="false" Priority="68" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 2 Accent 4" />
+<w:LsdException Locked="false" Priority="69" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 3 Accent 4" />
+<w:LsdException Locked="false" Priority="70" SemiHidden="false"
+UnhideWhenUsed="false" Name="Dark List Accent 4" />
+<w:LsdException Locked="false" Priority="71" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Shading Accent 4" />
+<w:LsdException Locked="false" Priority="72" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful List Accent 4" />
+<w:LsdException Locked="false" Priority="73" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Grid Accent 4" />
+<w:LsdException Locked="false" Priority="60" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Shading Accent 5" />
+<w:LsdException Locked="false" Priority="61" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light List Accent 5" />
+<w:LsdException Locked="false" Priority="62" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Grid Accent 5" />
+<w:LsdException Locked="false" Priority="63" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 1 Accent 5" />
+<w:LsdException Locked="false" Priority="64" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 2 Accent 5" />
+<w:LsdException Locked="false" Priority="65" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 1 Accent 5" />
+<w:LsdException Locked="false" Priority="66" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 2 Accent 5" />
+<w:LsdException Locked="false" Priority="67" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 1 Accent 5" />
+<w:LsdException Locked="false" Priority="68" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 2 Accent 5" />
+<w:LsdException Locked="false" Priority="69" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 3 Accent 5" />
+<w:LsdException Locked="false" Priority="70" SemiHidden="false"
+UnhideWhenUsed="false" Name="Dark List Accent 5" />
+<w:LsdException Locked="false" Priority="71" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Shading Accent 5" />
+<w:LsdException Locked="false" Priority="72" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful List Accent 5" />
+<w:LsdException Locked="false" Priority="73" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Grid Accent 5" />
+<w:LsdException Locked="false" Priority="60" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Shading Accent 6" />
+<w:LsdException Locked="false" Priority="61" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light List Accent 6" />
+<w:LsdException Locked="false" Priority="62" SemiHidden="false"
+UnhideWhenUsed="false" Name="Light Grid Accent 6" />
+<w:LsdException Locked="false" Priority="63" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 1 Accent 6" />
+<w:LsdException Locked="false" Priority="64" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Shading 2 Accent 6" />
+<w:LsdException Locked="false" Priority="65" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 1 Accent 6" />
+<w:LsdException Locked="false" Priority="66" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium List 2 Accent 6" />
+<w:LsdException Locked="false" Priority="67" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 1 Accent 6" />
+<w:LsdException Locked="false" Priority="68" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 2 Accent 6" />
+<w:LsdException Locked="false" Priority="69" SemiHidden="false"
+UnhideWhenUsed="false" Name="Medium Grid 3 Accent 6" />
+<w:LsdException Locked="false" Priority="70" SemiHidden="false"
+UnhideWhenUsed="false" Name="Dark List Accent 6" />
+<w:LsdException Locked="false" Priority="71" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Shading Accent 6" />
+<w:LsdException Locked="false" Priority="72" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful List Accent 6" />
+<w:LsdException Locked="false" Priority="73" SemiHidden="false"
+UnhideWhenUsed="false" Name="Colorful Grid Accent 6" />
+<w:LsdException Locked="false" Priority="19" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Subtle Emphasis" />
+<w:LsdException Locked="false" Priority="21" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Intense Emphasis" />
+<w:LsdException Locked="false" Priority="31" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Subtle Reference" />
+<w:LsdException Locked="false" Priority="32" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Intense Reference" />
+<w:LsdException Locked="false" Priority="33" SemiHidden="false"
+UnhideWhenUsed="false" QFormat="true" Name="Book Title" />
+<w:LsdException Locked="false" Priority="37" Name="Bibliography" />
+<w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading" />
+</w:LatentStyles>
+</xml><![endif]--><!--[if gte mso 10]>
+<style>
+/* Style Definitions */
+table.MsoNormalTable
+{mso-style-name:"Обычная таблица";
+mso-tstyle-rowband-size:0;
+mso-tstyle-colband-size:0;
+mso-style-noshow:yes;
+mso-style-priority:99;
+mso-style-qformat:yes;
+mso-style-parent:"";
+mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+mso-para-margin-top:0cm;
+mso-para-margin-right:0cm;
+mso-para-margin-bottom:10.0pt;
+mso-para-margin-left:0cm;
+line-height:115%;
+mso-pagination:widow-orphan;
+font-size:11.0pt;
+font-family:"Calibri","sans-serif";
+mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;
+mso-fareast-font-family:"Times New Roman";
+mso-fareast-theme-font:minor-fareast;
+mso-hansi-font-family:Calibri;
+mso-hansi-theme-font:minor-latin;}
+</style>
+<![endif]--></p>
+
+<h1>Лунные Узлы</h1>
+
+<p class="MsoNormal"><span lang="RU">Источник: </span></p>
+
+<p class="MsoNoSpacing"><i style=""><span lang="RU">Авессалом Подводный. Общая астрология. Часть 2. Планеты. &ndash; М.: ЦАИ, 1997</span></i></p>
+
+<p class="MsoNoSpacing"><i style=""><span lang="RU">Обье К. Астрологический словарь/Пер с фр. И. Назарова. &ndash; М.: КРОНОС-ПРЕСС, 1996</span></i></p>
+
+<p class="MsoNoSpacing"><i style=""><span style="">Тріш Макгрегор. Астрологічна енциклопедія, Книжковий клуб, 2006</span></i></p>
+
+<p class="MsoNoSpacing"><i style=""><span lang="RU">Хайо Банцхаф, Анна Хеблер. &laquo;Астрология: ключевые понятия&raquo; (пер. нем. Е. Колесова), - &laquo;Высшая Школа Классической Астрологии&raquo;, Москва, 2002</span></i></p>
+
+<p class="MsoNormal"><span lang="RU">В своем движении <strong>Луна</strong> оказывается то южнее, то севернее эклиптики (видимого пути Солнца по небосводу). Точки пересечения ее орбиты с эклиптикой называются узлами.<span style=""> </span>Точка перехода Луны<span style="">&nbsp; </span>из южной половины небосвода в северную называется Восходящим Узлом, или Головой Дракона, или Северным Узлом, точка обратного перехода &ndash; Нисходящим Узлом, или Хвостом Дракона, или Южным Узлом. Обе эти точки расположены на эклиптике одна против другой, поэтому аспект планеты, Угла или Парс Фортуны к одному из Узлов автоматически означает и аспект к другому: если планета стоит в квадрате к одному из Узлов, то к другому тоже будет квадрат; трин к одному Узлу будет сопровождаться секстилем к противоположному. Соединение в гороскопе рождения усиливает влияние узла в жизни индивида. Особенно если это соединение со <span style=""></span>стеллиумом планет. </span></p>
+
+<p class="MsoNormal"><span lang="RU">Движение <strong>Лунных Узлов</strong> по зодиаку &ndash; ретроградное, они перемещаются примерно на 2 градуса в месяц, примерно 3 минуты в день (3. 1770935 минут в день). Узлы проходят зодиак примерно за 19 лет. </span></p>
+
+<p class="MsoNormal"><span lang="RU"><strong>Узлы не являются такими же чувствительными точками гороскопа, как планеты</strong>. Они не представляют, подобно планетам, принципов и не являются источниками энергии, поскольку на небе они не видны. Это фиктивные точки. </span></p>
+
+<p class="MsoNormal"><span lang="RU">Американские астрологи склоняются к тому, чтобы интерпретировать ось Узлов как фактор, влияющий на здоровье. Европейцы же приписывают оси Узлов влияние на психику, что обусловливает легкое или затрудненное включение человека в общественные процессы, что, конечно, так или иначе сказывается на состоянии здоровья. </span></p>
+
+<p class="MsoNormal"><span lang="RU">В классической западной астрологии <strong>ось Узлов</strong> символизирует связь личной эволюции человека с эволюцией окружающего мира. Человек включен в процессы эволюции, хочет он этого или нет.<span style="">&nbsp; </span>Он участвует в эволюции, опираясь на внутренний опыт своей личности, опираясь на прошлый опыт народа, к которому принадлежит по рождению, опираясь на свое отношение к этому прошлому и устремляясь к будущему.<span style="">&nbsp; </span>Ось Узлов<span style=""> </span>олицетворяет текущие задачи и общий смысл жизни человека в целом как члена человеческого сообщества.</span></p>
+
+<p class="MsoNormal"><span lang="RU">В <strong>классической западной астрологии Нисходящий Узел</strong> считается эквивалентом Сатурна и потому рассматривается как символ прошлого, то есть, символизирует шаблоны и стереотипы поведения, с которыми человек приходит в жизнь в момент рождения в определенной культурной среде. Можно провести аналогию Нисходящего Узла с наследием прошлого, которое проявляется в том, что человек является носителем индивидуальных наследственных черт личности &ndash; в психосоциальном плане. </span></p>
+
+<p class="MsoNormal"><span lang="RU"><strong>Нисходящий Узел</strong>&nbsp; означает накопленный опыт - унаследованный нами, а также приобретенный, и определяет наше автоматическое, инстинктивное поведение. Он свидетельствует о складе интеллекта и схеме мотиваций, которые срабатывают спонтанно. На этот опыт мы опираемся, но от него же нам следует и отказываться, чтобы иметь возможность развиваться, идти дальше, если мы хотим расти. Знак Нисходящего Узла и его положение в доме указывают на ту вотчину, которой мы должны уделять особое внимание: осознавать свои догматические позиции, чтобы уметь отказаться от них в пользу возможности эволюционировать к наиболее полной реализации. </span></p>
+
+<p class="MsoNormal"><span lang="RU"><strong>Восходящий Узел</strong> &laquo;репрезентует точку, в которой на прошлое оказывается наимощнейшее давление. Если мы позволяем себе попасть под него, то становимся открытыми для абсолютно новой и экзотической действительности. Что-то словно искушает нас порвать с прошлым&hellip;&raquo; (Стивен Форрест во &laquo;Внутреннем небе&raquo;). Восходящий указывает основное направление эволюции личности и те задачи, которые нам нужно в ней решить. Восходящий Лунный Узел соответствует главным планам текущего периода жизни. В точке Восходящего Узла находится порог, через который необходимо переступить, решение, которое нужно принять, задача, которую нужно решить, чтобы извлечь выгоду из своего прошлого опыта (и из ошибок) и реализовать свою эволюционную миссию. В классической западной астрологии Восходящий Узел рассматривается как благоприятный, равнозначный Юпитеру. </span></p>
+
+<p class="MsoNormal"><span lang="RU">Иногда складывается мнение, что Лунные Узлы работают во взаимодействии с Сатурном. Когда мы сталкиваемся с препятствиями в той сфере, где в нашей карте расположен Сатурн, это, очевидно, означает, что обстоятельства внутренней и внешней жизни принуждают нас избавиться от обусловленных Нисходящим Узлом предубеждений путем использования энергий нашего Восходящего Узла. Кроме того, Восходящий Узел представляет тип людей, к которым нас тянет, которые открывают нам что-то новое, стимулирую расти. А Нисходящий Узел представляет людей, которые нас притормаживают, сдерживают наше развитие, вынуждают кристаллизоваться ради того, чтобы мы оставались неизменными и закрытыми к развитию. Людей, символизируемых положением Нисходящего Узла в знаке и доме нашей карты рождения и его аспектами, нам следует оценивать критически, чтобы снизить их негативное влияние на свою жизнь. </span></p>
+
+<p class="MsoNormal"><span lang="RU">Важно обнаружить и осознать <strong>взаимосвязь между обоими Узлами</strong>, ибо Нисходящий Узел, скорее, мешает развитию, то есть действует, как тормоз, а Восходящий то и дело устраивает экзамен, проверяя, хватит ли у нас духу взяться за новую задачу, или мы малодушно откажемся от нее. Аспекты Лунных Узлов с планетами позволяют выяснить, что помогает и что мешает нам решить эту задачу. </span></p>
+
+<p class="MsoNormal"><span lang="RU"><strong>Любое развитие идет на грани баланса между прошлым и будущим</strong>. Если баланс нарушается в сторону будущего, человек не обращает внимания на опыт прошлого, безоглядно устремляется в будущее, сжигая за собой мосты и теряя опору под ногами. Вместе с потерей опоры исчезает и видение того, куда двигаться дальше. Человек оказывается в социальной и духовной пустоте, в вакууме. Если же баланс нарушается в сторону прошлого, то человек не хочет признавать перемен, которые происходят вокруг него и с ним. Он старается обустроить свою жизнь так, как будто бы нет и не может быть никакого развития, нет взросления, старости, смерти. Он хочет, чтобы во всем была раз и навсегда установленная стабильность, чтобы все в его жизни было так, как было заведено в прошлом &ndash; в те времена, в которых он лучше всего ориентируется, где чувствует себя уверенно.<span style=""> </span>Свою энергию человек тратит на то, чтобы не допустить перемен, которые привели бы к переменам в нем самом. Ему не нужны никакие перемены. Тогда развитие останавливается и начинается &laquo;трамбование духовного пути&raquo;, топтание на месте, брожение и гниение застоя. </span></p>
+
+<p class="MsoNormal"><span lang="RU">Например, <strong>перекос в сторону Нисходящего Узла</strong> будет проявляться в поведении человека в том, что он десятилетиями не меняет стиль одежды, прическу, манеру поведения. Например, в возрасте 60 лет человек продолжает вести себя во всех социальных ситуациях, как подросток: напускает на себя важности, корчит рожи, хихикает, использует &laquo;кодовые&raquo; жесты, носит &laquo;фенечки&raquo;, говорящие о его принадлежности к какой-то группировке, <span style="">&nbsp;</span>разговаривает на сленге, который был в ходу в его годы его юности, не понимая, что другие люди могут не знать этих сленговых выражений и не понимать их сути. Например, сегодня человек может называть Чехию Чехословакией, Германию &ndash; ГДР, Словению &ndash; Югославией, а себя - &quot;рожденный в СССР&quot;. </span></p>
+
+<p class="MsoNormal"><span lang="RU">Например, <strong>перекос в сторону Восходящего Узла</strong> может проявляться в том, что человек регулярно &laquo;начинает новую жизнь&raquo; и при этом решительно отказывается от всего, что олицетворяет для него прошлое. Например, узнает о новом веянии в мире моды и тут же покупает полный комплект новой одежды и аксессуаров, ни сколько не заботясь о том, как их вписать в свой гардероб.<span style="">&nbsp; </span>Прежние вещи из гардероба он просто выбрасывает без разбора, не заморачиваясь тем, что они могут не быть в состоянии материальной и моральной изношенности. <span style=""></span>Так он может &laquo;выбросить&raquo; драгоценности, книги. Точно так же радикально он отвергает и нематериальные ценности, которыми дорожил еще вчера: какие-то свои убеждения, <span style="">способности, </span>привычки. </span></p>
+
+<p class="MsoNormal"><span lang="RU"><strong>В идеале между Узлами человек должен установить баланс</strong>. От того, есть этот баланс или нет, зависит качество ежедневной жизни человека и его бытовое мироощущение. Если баланса нет, то человек живет или прошлым днем, или завтрашним. Жить сегодняшним днем, осознавая, как сегодняшние выборы и поступки вытекают из прошлого и как влияют на будущее, как будущее отреагирует на них - большое искусство, удел мудрецов. </span></p>
+
+<p class="MsoNormal"><span lang="RU">Течение времени и ход внутреннего и внешнего развития обычно сознание не замечает, но подсознание всегда улавливает. И перед нами всегда есть вопрос: событие, которое происходит в мире, - это появление старого и знакомого или нового и неизведанного? Как к нему относиться? К чему быть готовым? Реакция конкретного человека<span style=""> </span>на социальные явления определяется положением в его гороскопе Нисходящего и Восходящего Узлов.</span></p>
+
+<p class="MsoNormal"><strong><span lang="RU">Влияние Лунных Узлов осуществляется главным образом через дома гороскопа. Положение Узлов в знаке играет скорее подчиненную роль. Поэтому значение Узлов для каждого конкретного индивида, пары, коллектива, государства лучше интерпретировать по домам. </span></strong></p>
+
+<p class="MsoNormal"><span lang="RU"><strong>Человек часто реализует себя, акцентируя Узлы, а не планеты</strong>.<span style=""> Э</span>то бывает при поражении основных планет (Солнца и Луны), когда человек, сталкиваясь с трудностями волеизъявления и поддержания жизни, отказывается быть творцом и соглашается быть паразитом, то есть, быьт безличным членом коллектива, у которого нет собственных желаний, который лишь заботится об удовлетворении желаний других - тех, у кого тоже нет личных желаний. Реализация через Узлы может дать человеку<span style=""> </span>работу и крышу над головой, не затрагивая его центральных психических структур: это жизнь в рамках коллективистской реальности, где человек играет роль, отведенную ему коллективом, а коллектив платит ему за это умеренные деньги, но ничего большего от человека не требует. </span></p>
+
+<p class="MsoNormal"><span lang="RU"><strong>Ситуация Узлов</strong>: обсуждение проблем социального развития на всех мыслимых уровнях &ndash; от старушек на лавочке до полемики на тему общественной жизни в СМИ.<span style=""> </span>Это разговоры о воспитании детей, о моде, о политических новостях, воспоминания о нравах прежних времен, оценки настоящего с позиций нравов прошлого, обсуждение вариантов будущего на прочных позициях настоящего. </span></p>
+
+<p class="MsoNormal"><span lang="RU"><strong>Если ось Узлов у человека несбалансированна</strong>, то есть, один Узел акцентирован сильнее другого, обсуждение с ним социальных процессов совершенно бесполезно, это профанация. Но такая ситуация бывает крайне редко, поскольку тема противоположного Узла всегда звучит фоном, и это легко ощущается. </span></p>
+
+<p class="MsoNormal"><span lang="RU"><strong>Глобальная ситуация Узлов</strong> &ndash; это, например, принятие народом новой для него религии или внедрение чужой культуры, когда многие старые обряды и формы социального поведения наполняются новым смыслом. Будут ли эти процессы происходить мирно и гармонично или, наоборот, &laquo;огнем и мечом&raquo;, зависит от уровня баланса оси Узлов. <span style="">&nbsp;</span></span></p>
+
+<p class="MsoNormal"><span lang="RU"><strong>Во внутреннем мире человека ситуации Узлов</strong> возникают обычно с акцентом на одном из них: или развитие человека тормозит инертная и косная часть психики, или в подсознание слишком рьяно внедряются новые программы, к которым подсознание еще не готово. Задача человека &ndash; найти баланс Узлов и не жертвовать глупо старым ради нового, и наоборот. </span></p>
+
+<p class="MsoNormal"><strong><span lang="RU">Если Узлы аспектированы мажорными аспектами со стороны личных планет (Луна, Солнце, Меркурий, Венера, Марс), мы говорим, что Узлы в сильной позиции. Также силу Узлов увеличивает их положение в угловых домах &ndash;<span style="">&nbsp; </span>в 1, 4, 7, 10, мажорные аспекты<span style="">&nbsp; </span>к оси <a href="/articles/asc_mc.html" title="Значение Асцендента и МС">Асцендент</a>/Десцендент, МЦ/ИЦ, к Парсу Фортуны.<span style="">&nbsp; </span></span></strong></p>
+
+<p class="MsoNormal"><span lang="RU"><strong>Сильные Узлы</strong> указывают на человека, предназначение которого &ndash; жить в самой гуще жизни. Ему не дает покоя ни прошлое, ни будущее: прошлое в настоящем ему очень нравится, но в то же время местами отчетливо устарело и требует решительной замены. Будущие тенденции тоже весьма привлекательны, и нужно их как можно скорее повсеместно распространить. Такой человек может быть профанатором идеи социального развития: из традиций он берет наиболее плоскую и реакционную часть, а из новых идей делает нечто или совершенно фантастическое и нереальное, или, наоборот, хорошо узнаваемое, из недавнего прошлого, того самого в нем, что хочется похоронить и навсегда забыть.</span></p>
+
+<p class="MsoNormal"><span lang="RU">Или же, наоборот, у него может быть глубокое проникновение в суть происходящих в обществе процессов и он будет стараться найти синтез традиции и новых веяний и показать конкретные пути развития общества. </span></p>
+
+<p class="MsoNormal"><span lang="RU">Во внутренней жизни человек с сильными Узлами будет испытывать постоянные импульсы развития.<span style=""> </span>Ему обязательно нужно меняться, но при гармоничных аспектах Узлов есть тенденция профанировать саморазвитие. </span></p>
+
+<p class="MsoNormal"><span lang="RU"><strong>Направление развития показывают дома, где расположены Узлы</strong>. При этом следует иметь ввиду, что внутренне развитие<span style="">&nbsp; </span>идет, в том числе, и за счет Нисходящего Узла, а не только за счет Восходящего: осмысляются и окончательно оформляются результаты прошлого, убирается психический мусор. Узлы могут проявляться в неприятной внутренней суете. Человек все время куда-то бросается, стремится то выковать себя полностью заново, уничтожив все, что есть на данный момент,<span style=""> </span>то, наоборот, полностью отрицает все нововведения и сосредотачивается исключительно на идее тщательной отработки и культивирования имеющихся навыков и способностей. Сильные Узлы могут дать комплексы и фрустрации очень тяжелого сорта &ndash; неверие в себя, в возможность своего развития и самореализации, что проецируется вовне и дает социальный нигилизм и отрицание возможности социального развития. Притом что реально человек вполне может трудиться именно в областях, связанных с общественными проблемами и развитием общества. Высокие требования к собственным детям, а также внимание к молодежным проблемам. </span></p>
+
+<p class="MsoNormal"><span lang="RU"><strong>Сильные Узлы могут быть пораженными или гармоничными</strong>. Гармоничным будет Узел, к которому идет максимальное количество тринов. Узлы могут быть приблизительно одинаково гармоничными. </span></p>
+
+<p class="MsoNormal"><span lang="RU"><strong>Гармоничный Нисходящий</strong> узел дает глубокое видение роли традиции в современной жизни общества и большую любовь к ней. Этот человек может быть любителем старины какого угодно толка: коллекционер старинных вещей, историк, проводник обрядов и верований предков в современную жизнь. Есть опасность полностью уйти в мир прошлого, забыв про законы развития. Ностальгическая сладость может опьянять сильнее наркотика.<span style=""> </span>Трины Нисходящего Узла дают очень большую внутреннюю пассивность, ощущение ненужности развития, во всяком случае, приложения особых усилий, ибо (кажется человеку) все должно происходить само собой, вовремя, гармонично и красиво, а если ради чего-то нужно сильно напрягаться, так лучше не надо.<span style=""> </span>Это трудное для преодоления положение, поскольку косные установившиеся программы подсознания наделены очень большой<span style="">&nbsp; </span>инерцией, преодолеть которую можно лишь напряжением всех сил. Трин &ndash; аспект расслабляющий, когда большое препятствие видится незначительным, а серьезная проблема несущественной. Однако человек с гармоничным Нисходящим Узлом имеет большие возможности развития (внутреннего и внешнего) и может гармонично участвовать в общественной жизни, может учить других видеть и уважать традицию в ее живой части и двигаться вперед на ее основе, а не в пустом пространстве. </span></p>
+
+<p class="MsoNormal"><span lang="RU"><strong>Гармоничный Восходящий Узел</strong> дает человека, который наслаждается новыми веяниями и прогрессивными идеями. Для него они &ndash; наркотик. Не хочется думать о ложностях реализации и реальной конструктивности этих идей и веяний: они нравятся сами по себе. Это может привести к постепенной девальвации идей и измельчанию самого человека, поскольку вдохновляться и вдохновлять других фантомами можно лишь ограниченное время. Трины Восходящего Узла делают грядущее очевидно прекрасным и столь же неизбежным, и кажется, что не нужно ничего, кроме как его радостно приветствовать. </span></p>
+
+<p class="MsoNormal"><span lang="RU">Во внутренней жизни гармоничный Восходящий Узел дает превосходные способности к адаптации к любым новым условиям, в частности &laquo;резиновую совесть&raquo;: человек может оправдать себя в любой позиции. Вместе с тем адаптация к своей психике новых программ подсознания требует некоторого труда и внимания к имеющемуся ее состоянию и динамике. Старое и новое должно взаимодействовать между собой в жизни, а не лежать слоями, когда синтеза не происходит. </span></p>
+
+<p class="MsoNormal"><span lang="RU"><strong>Пораженные Узлы &ndash; это Узлы, аспектированные квадратами</strong>. Сильные пораженные Узлы дают человека, которому трудно смотреть на развитие окружающего общества: традиции прошлого его не устраивают, кажутся глупыми, догматичными, давно устаревшими или ненужными, а тенденции к новому представляются не выходом из создавшегося положения, а издевательством над здравым смыслом (квадрат Меркурия к Узлам), эстетическим чувством (квадрат Венеры) или экзистенцией (квадрат Луны). Вместе с тем проблемы развития общества трогают человека, ему не удается от них просто так скрыться. Его постоянно вовлекает в какие-то социальные течения, в которые он энергично включается и от которых столь же энергично отторгается, ко взаимному неудовольствию сторон. Этот человек может стать полным социальным нигилистом, извращающим и отрицающим как традицию, так и все прогрессивные течения, и пылающим лютой злобой к обществу в целом. Бороться приходится не с отдельными людьми, а с целыми коллективами. Однако именно эти люди могут наиболее глубоко понять свое общество, его корни и истоки, и прозреть его будущее в незначительных ручейках, слабо пробивающихся по болоту повседневности, и указать его развитию наиболее перспективное направление. Эти люди чувствуют боль социума как никто другой, в них как будто встроено увеличительное стекло, настроенное на пороки и недостатки развития, и общая культура общества очень отчетливо проявляется в отношении таких людей к этим недостаткам и порокам. </span></p>
+
+<p class="MsoNormal"><span lang="RU">Внутренний мир человека с пораженными Узлами имеет большие сложности развития, которые сильно зависят от конкретного положения Узлов в карте. Например, Узлы в подвижном кресте дают слишком большую изменчивость психических структур, а в постоянном &ndash; их ригидность. В общем, можно сказать, жизнь складывается так, что внутренне меняться необходимо, но это получается с большим трудом, а чаще всего изменения идет не так, не туда или не вовремя. В выраженных случаях человек может возненавидеть свое актуальное &laquo;Я&raquo;, воспринимая его как набор отживших, примитивных и низменных программ и инстинктов, что ведет к глубокому отчаянию, неврозам и психозам. Его идеалы развития столь высоки, что недостижимы. Это положение Узлов требует устранения искажения при восприятии актуального состояния психической реальности и примирения с собой в текущем варианте или формирование достаточно высокого, но реально достижимого идеала или, по крайней мере, конкретных ступеней развития. Здесь потребуется высокая самодисциплина и внутренняя честность. </span></p>
+
+<p class="MsoNormal"><span lang="RU"><strong>Если Узлы в карте не имеют мажорных аспектов к личным планетам<span style="">&nbsp; </span>(Луна, Солнце, Меркурий, Венера, Марс) и к оси Асцендент/Десцендент, МЦ/ИЦ, Парс Фортуны, не расположены в угловых домах (1,4,7,10), мы говорим, что Узлы слабые</strong>. Человек со слабыми Узлами в карте будет мало заинтересован в социальной динамике. Моды подрастающего поколения не вызывают у него восторга, но и кипеть от негодования тоже не заставляют. Это положение Узлов в карте дает невключенность в развитие &laquo;принудительным порядком&raquo;, но вовсе не означает застоя: человек может как постигать развитие окружающего его общества, так и развиваться сам &ndash; особых препятствий в этом ему не поставлено, но нет и побуждающих к этому стимулов, как при сильных и особенно пораженных Узлах. </span></p>
+
+<p class="MsoNormal"><span lang="RU">Сложность этого положения в том, что в какой-то момент может оказаться, что человек безнадежно отстал в своем развитии и окостенел душевно, и не в состоянии ни опереться на свои имеющиеся программы подсознания, ставшие очень жесткими и во многом примитивными, ни начать осваивать новые. С другой стороны, слабые Узлы позволяют направить внутреннее развитие по тому пути, который человек может выбрать сам, без императивного давления внешних или внутренних обстоятельств (при сильных Узлах такой возможности нет &ndash; общество принудительно включает человека в свои программы и заставляет развиваться). </span></p>
+
+<p class="MsoNormal"><span lang="RU"><strong>Слабые Узлы</strong> означают судьбу наблюдателя за социальной жизнью. Здесь у человека может оказаться высокий уровень понимания процессов развития и малая (по видимости) возможность непосредственного в них участия. Его основная функция в мире &ndash; внимание и понимание, а не действие. </span></p>
+
+<p class="MsoNormal"><span lang="RU"><strong>Если один из Узлов в соединении с планетой или стеллиумом, а другой нет, мы говорим об акцентированном Узле</strong>. </span></p>
+
+<p class="MsoNormal"><span lang="RU"><strong>Человек с акцентом на Нисходящем Узле</strong> ориентирован на<span style="">&nbsp; </span>традицию. Он с удовольствием ищет в настоящем следы прошлого. Он рожден сторожить устои, беречь традиции. При поражении Узлов или при паразитической жизненной позиции он может оказаться ретроградом и консерватором, слепо верящим всему, что было утверждено как истина раньше, и отвергающим новое видение только потому, что оно новое. Призвание такого человека заключается в том, чтобы глубоко проникать в суть проблем настоящего как вытекающего из прошлого и уметь<span style=""> </span>отступать от догматических представлений о прошлом, исправляя искаженные представления, вызванные политической, пропагандистской, идеологической или какой-либо иной необходимостью. То есть, очистить прошлое от ложных трактовок, обусловленных наслоением времени. Эти действия следует производить, отслеживая боковым зрением тенденции будущего развития общества, ориентируясь в целом.<span style="">&nbsp;&nbsp; </span></span></p>
+
+<p class="MsoNormal"><span lang="RU">Во внутренней жизни человек с акцентом Нисходящего Узла склонен считать, что он фундаментально, в главном, достаточно хорош и особо в усовершенствовании не нуждается. Ошибкой будет считать, что ему не нужно развивать в себе способности к адаптации своей психики к новым условиям. Он, конечно, хорошо приспособлен к самому себе и может прочно опереться на себя, но если он не будет развиваться, его личность окостенеет и деградирует. </span></p>
+
+<p class="MsoNormal"><span lang="RU"><strong>Человек с акцентом Восходящего Узла</strong> будет больше заинтересован в новых и, как он считает, перспективных общественных движениях, чем в традициях. В демократическом обществе такого человека часто можно увидеть на демонстрации. В тоталитарном<span style="">&nbsp; </span>- он больше других заинтересован в переменах, очень страдает.<span style=""> </span>Но все это &ndash; в рамках, определенных обществом. Человек с акцентированным Восходящим Узлом интересуется модой, любит следить за социальными новостями. Он способен свое отношение к моде и к новостям реализовывать не по принципу свежести и сенсационности, а по сути тенденций, которые они отражают. Человек будет хорошо видеть настоящее и, проницательно оценивая тенденции будущего, будет поддерживать их развитие, учитывая особенности существующих в обществе традиций. Ему важно, чтобы новые тенденции не противоречили реалиям прошлого. </span></p>
+
+<p class="MsoNormal"><span lang="RU">Во внутренней жизни человек с акцентированным Восходящим Узлом всегда куда-то стремится, не всегда понимая, куда и зачем. Он часто не устраивает себя, точнее, сам себе скучен и требует нового &ndash; новых друзей, впечатлений, смены профессий, увлечений. Если он осознает себя, то будет стремиться вырабатывать в себе новые качества, осваивать новые программы подсознания и новую психическую реальность, вначале плохо представляя, как она увязывается со старой и что из этого в результате получится. При установлении баланса Узлов мы увидим мудрого человека в вопросах, касающихся будущего, который умеет не торопить события<span style="">&nbsp; </span>и умеет дорабатывать и частично корректировать старые программы подсознания, в частности, свои привычки, навыки, систему взглядов на мир, систему ценностей. Хотя это ему может быть весьма неприятно &ndash; ему легче что-то выбросить, чем починить. </span></p>
+
+<p class="MsoNormal"><span lang="RU"><strong>Положение Узлов в знаках играет второстепенную роль по сравнению с положением Узлов в домах</strong>. Положение в знаках указывает на стиль, в котором будет реализовываться отношение человека к традициям и новым социальным течениям. На тип перехода от старого к новому в сознании, подсознании и самосознании. Положение Узлов в домах указывает на главную сферу социальной реализации человека. Оно указывает задачу, которую человек ставит себе в жизни по большому счету, и опасность, с которой человек будет иметь дело в ходе своего эволюционного развития. </span></p>
+
+<p class="MsoNormal"><span lang="RU"><strong>Узлы в кардинальном кресте указывают</strong> на то, что человек будет решительно и недвусмысленно проявлять свое отношение к социальным процессам. Менять себя во внутренней жизни будет энергично и безжалостно.</span></p>
+
+<p class="MsoNormal"><span lang="RU"><strong>Узлы в постоянном кресте</strong> означают, что подходить к проблемам прошлого-будущего человек будет обстоятельно, внутренне меняться с трудом, но, избрав направление перемен, будет следовать ему годами, упорно. </span></p>
+
+<p class="MsoNormal"><span lang="RU"><strong>Узлы в подвижном кресте </strong>показывают, что отношение к проблемам прошлое-будущее поверхностное, легкое, быстрое приятие или отвержение сиюминутных актуальных перемен в обществе. Прошлое легко приспосабливается к настоящему, а настоящее к будущему. Во внутренней жизни большая подвижность программ подсознания, легкое и поверхностное усвоение нового и забвение старых умений и навыков, заблуждений и пороков. </span></p>
+
+<p class="MsoNormal"><span lang="RU"><strong>Узлы в мужских знаках</strong> означают активную позицию человека в отношении социальных перемен. Перемены, со своей стороны, влияют на судьбу человека самым непосредственным образом. Внутреннее развитие является необходимостью, и человек, особенно при сильных Узлах, это ощущает, хотя понимать может своеобразно, в соответствии с культурой своего социального слоя. </span></p>
+
+<p class="MsoNormal"><span lang="RU"><strong>Узлы в женских знаках</strong> дают пассивную позицию в отношении к процессам в обществе. Человек стоит на позиции наблюдателя. При сильных Узлах &ndash; весьма заинтересованного, хотя социальные изменения касаются его чаще косвенно (если не противоречат другие факторы гороскопа и нет сильного поражения Узлов). Внутреннее развитие идет относительно мягко, не слишком императивно, более способом восприятия, чем воздействия, и может оказаться очень запущенным, после чего могут следовать сильные кармические удары, особенно при пораженной карте. </span></p>
+
+<p class="MsoNormal"><b style=""><span lang="RU">Узлы Луны в знаках. </span></b></p>
+
+<p class="MsoNormal"><b style=""><i style=""><span lang="RU">Восходящий в Овне, Нисходящий в Весах. </span></i></b><span lang="RU">Проявляя смелось, развивая силу, бойцовские качества и становясь мастером своего дела, вы преодолеете свою склонность полагаться на оценки и вкусы других. </span></p>
+
+<p class="MsoNormal"><b style=""><i style=""><span lang="RU">Восходящий в Тельце, Нисходящий в Скорпионе. </span></i></b><span lang="RU">Развивая вкус, проявляя уважение к частной собственности, самостоятельно обеспечивая себя всем необходимым для жизни, вы сможете преодолеть глубоко укоренившиеся комплексы относительно могущества и сексуальности. </span></p>
+
+<p class="MsoNormal"><b style=""><i style=""><span lang="RU">Восходящий в Близнецах, Нисходящий в Стрельце.</span></i></b><span lang="RU"> Вам следует развивать логическое мышление, учиться, читать, думать, общаться, делиться информацией с другими. Это позволит вам преодолеть вашу склонность попадать под влияние идеологической пропаганды и полагаться на авторитетное мнение. </span></p>
+
+<p class="MsoNormal"><b style=""><i style=""><span lang="RU">Восходящий в Раке, Нисходящий в Козероге.</span></i></b><span lang="RU"> Вы эволюционируете через развитие эмоциональной чувствительности, эмпатии, воображения, через заботу о поддержании жизни и через создание уюта. Это позволяет вам преодолевать вашу холодность, замкнутость, суровость, склонность к аскетизму, косность и консерватизм. </span></p>
+
+<p class="MsoNormal"><b style=""><i style=""><span lang="RU">Восходящий во Льве, Нисходящий в Водолее. </span></i></b><span lang="RU">Развивая силу воли, раскрывая свои творческие способности, вы преодолеваете зависимость от коллектива, противосоите тем, кто стремится паразитировать. </span></p>
+
+<p class="MsoNormal"><b style=""><i style=""><span lang="RU">Восходящий в Деве, Нисходящий в Рыбах.</span></i></b><span lang="RU"> Вы должны заниматься конкретной интеллектуальной или тонкой практической работой, заботиться о поддержании здоровья, взаимодействовать с домашними животными, пользоваться инструментами и услугами наемных рабоников, чтобы преодолеть свою склонность убегать от реальной жизни в мир иллюзий. </span></p>
+
+<p class="MsoNormal"><b style=""><i style=""><span lang="RU">Восходящий в Весах, Нисходящий в Овне. </span></i></b><span lang="RU">Сотрудничая с другими, уравновешенно разрешая все раздражающие вопросы, открыто противостоя врагам, выражая свое понимание красоты в абстрактных символах, вы преодолеваете свою склонность сначала действовать, а потом уже думать. </span></p>
+
+<p class="MsoNormal"><b style=""><i style=""><span lang="RU">Восходящий в Скорпионе, Нисходящий в Тельце. </span></i></b><span lang="RU">Проницательность и готовность глубоко меняться, глубокие исследования тайных вещей, преодоление кризисов помогают вам не привязываться к ценностям, которые уже отслужили свое. </span></p>
+
+<p class="MsoNormal"><b style=""><i style=""><span lang="RU">Восходящий в Стрельце, Нисходящий в Близнецах.</span></i></b><span lang="RU"> Постигая чужую культуру, философию, расширяя свои представления, осваивая большие учебные программы, вы преодолеете склонность к поверхностности суждений, суетливости и нелогичности. </span></p>
+
+<p class="MsoNormal"><b style=""><i style=""><span lang="RU">Восходящий в Козероге, Нисходящий в Раке. </span></i></b><span lang="RU">Через самодисциплину и экономию сил на длинной дистанции достижения цели, создавая крепкую и структурированную основу для вашей дальнейшей деятельности, вы избавляетесь от чувства опасности, незащищенности, эмоциональной зависимости от родителей. </span></p>
+
+<p class="MsoNormal"><b style=""><i style=""><span lang="RU">Восходящий в Водолее, Нисходящий во Льве. </span></i></b><span lang="RU">Сохраняя независимость суждений и индивидуализм в коллективе, вы находите наилучшее применение своим творческим способностям&nbsp; и избавляетесь от склонности неправомерно контролировать других. </span></p>
+
+<p class="MsoNormal"><b style=""><i style=""><span lang="RU">Восходящий в Рыбах, Нисходящий в Деве.</span></i></b><span lang="RU"> Через разгадывание загадок, через подключение к коллективному бессознательному вы преодолеваете свою склонность к перфекционизму, излишней педантичности и критике в адрес других. </span></p>
+
+<p class="MsoNormal"><b style=""><span lang="RU">Узлы Луны в домах. </span></b></p>
+
+<p class="MsoNormal"><b style=""><i style=""><span lang="RU">Восходящий в 1 доме</span></i></b></p>
+
+<p class="MsoNormal"><i style=""><span lang="RU">Главная тема: </span></i><span lang="RU">конфликт между потребностью развивать свое &laquo;Я&raquo; и стремлением ко всеобщей гармонии. В партнерских отношениях &ndash; желание и умение поддерживать равновесие, приспосабливаясь к другому человеку. Вы умеете давать другим что-то, но не умеете брать от них (или наоборот). </span></p>
+
+<p class="MsoNormal"><i style=""><span lang="RU">Задача:&nbsp;</span></i><i style=""><span lang="RU"> </span></i><span lang="RU">обрести смелость действовать по собственному усмотрению, быть первооткрывателем и первопоходцем, отстаивать личные интересы, бороться за право быть предпринимателем. </span><span lang="RU">Найти в себе мужество преодолеть &laquo;правила игры&raquo; в отношениях между партнерами, чтобы делать самому и позволить партнеру делать то, что каждый считает для себя правильным. Развитие и укрепление самосознания, самостоятельности, ответственности и удовлетворения от использования своих сил и возможностей. Воспитать в себе смелость и готовность вступать в любые конфликты, преодолевать любые страхи, особенно в области человеческих взаимоотношений. </span></p>
+
+<p class="MsoNormal"><i style=""><span lang="RU">Опасность: </span></i><span lang="RU">забвение собственной личности. Стремление приспособиться ко всему и вся, постоянная готовность помочь всем и каждому даже в ущерб собственным интересам. Ожидание инициативы и указаний от других, пассивность и потребность в одобрении со стороны окружающих, привычка полагаться на чужие вкусы и оценки. </span></p>
+
+<p class="MsoNormal"><span lang="RU">Сознательно развивая свои природные таланты и способности, вы порываете с глубоко укорененной убежденностью<span style=""> </span>ставить чужие интересы выше своих. Такая позиция укрепляет вашу личность и открывает возможности для признания и славы. Вы должны научиться сотрудничать с другими на паритетных началах. </span>Вы можете зарабатывать на поприще свободного предпринимательства.</p>
+
+<p class="MsoNormal"><b style=""><i style=""><span lang="RU">Восходящий во<span style="">&nbsp; </span>2 доме</span></i></b></p>
+
+<p class="MsoNormal"><i style=""><span lang="RU">Главная тема: </span></i><span lang="RU">конфликт между потребностью быть материально обеспеченным и стремлением к нематериальным ценностям.</span></p>
+
+<p class="MsoNormal"><i style=""><span lang="RU">Задача:&nbsp; </span></i><span lang="RU">осознанное формирование своей системы ценностей. Самостоятельное обеспечение себя всем необходимым для жизни. Приобретение личного имущества. </span><span lang="RU">Вы должны не подавлять, а принимать и ценить свое стремление к благополучию, плотским радостям, стремление наслаждаться жизнью. Осознавайте уникальность своих возможностей, талантов и способностей. Дайте волю своему стремлению обладать материальными вещами, создавать материальные формы, сохранять то, что имеете.&nbsp; </span></p>
+
+<p class="MsoNormal"><i style=""><span lang="RU">Опасность: </span></i><span lang="RU">отказ от материального в пользу &quot;духовного&quot; - готовность быть бедным ради возможности гипнотически влиять на людей, заниматься расследованием скрытых вещей, оккультизмом, научными исследованиями, магией, экстремальными видами спорта, войной, преодолением кризисов. С</span><span lang="RU">трах лишиться магической власти над людьми может заставить отказаться от материального достатка. Ради получения все новых доказательств своего могущества вы можете делать других своей собственностью, зависимыми от вас во всех отношениях. Даже секс и эротику вы можете использовать в качестве инструментов своей власти над людьми. </span></p>
+
+<p class="MsoNormal"><span lang="RU">Вы растете через обретение финансового благополучия собственными усилиями за счет своих талантов и способностей. Избегая использовать чужие деньги и чужие энергетические ресурсы, в том числе и здоровье, вы достигаете процветания благодаря использованию собственных талантов и ресурсов. Вы успешны в совместных с другими финансовых делах. Если в одобрении всех финансовых решений вы будете целиком полагаться на фнансовое чутье своего партнера, ваше развитие зайдет в тупик. </span></p>
+
+<p class="MsoNormal"><b style=""><i style=""><span lang="RU">Восходящий в 3 доме</span></i></b></p>
+
+<p class="MsoNormal"><i style=""><span lang="RU">Главная тема: </span></i><span lang="RU">конфликт между стремлением к рациональным знаниям, к общению и обмену информацией, с одной стороны, и привычкой к догматичному взгляду на вещи, к уходу в &laquo;возвышенный&raquo; мир авторитетных представлений, непоколебимых постулатов, закоснелых убеждений и предрассудков &ndash; с другой.</span></p>
+
+<p class="MsoNormal"><i style=""><span lang="RU">Задача: </span></i><span lang="RU">Научиться думать самостоятельно. Подвергать критике устоявшиеся идеалы и религиозно-философские концепции. Претворять духовный опыт и восхищение достижениями других в собственную житейскую практику и передавать свои идеи окружающим в виде доходчивых рациональных объяснений. Связать воедино свои высшие принципы, философские представления, этические и религиозные концепции с повседневными делами и поступками. Делиться опытом через письменное творчество и устное преподавание. Заботиться об обыденных, повседневных вещах.</span></p>
+
+<p class="MsoNormal"><i style=""><span lang="RU">Опасность: </span></i><span lang="RU">зацикленность на &laquo;образцах добродетели&raquo;, ранее усвоенных убеждениях и идеологических предрассудках. Фанатическая приверженность какому-либо фундаменталистскому учению. Неготовность ни на миллиметр отступить от своих представлений о Законе и Справедливости. </span>Неспособность критически мыслить.</p>
+
+<p class="MsoNormal"><span lang="RU">Вы растете благодаря добытым знаниям. Вы эволюционируете к более широкой системе взглядов. В этом процессе важную роль играют ваши братья, сестры, родственники и соседи, люди из повседневного окружения. Главным является для вас образование. Ваши познания увеличиваются благодаря письменному слову. Чтобы расти и развиваться как личность, вам необходимо расширить ваши слишком ограниченные религиозно-философские взгляды. Вам следует постоянно быть в курсе достижений современной рациональной мысли. </span>Вы можете заработать на своих публикациях, преподавании, посредничестве.</p>
+
+<p class="MsoNormal"><b style=""><i style=""><span lang="RU">Восходящий в 4 доме</span></i></b></p>
+
+<p class="MsoNormal"><i style=""><span lang="RU">Главная тема: </span></i><span lang="RU">конфликт между стремлением создать свой собственный семейный уклад, обзавестись собственным домом и авторитетом одного из родителей, от которого вы унаследовали представления о карьере, чести, долге и репутации.</span></p>
+
+<p class="MsoNormal"><i style=""><span lang="RU">Задача: </span></i><span lang="RU">искать и находить радость, счастье, гармонию в своей семье, в собственном комфорте и уюте. Выяснить и изучить свои корни, генеалогию, историю рода, этноса и края. Обращаться к собственному внутреннему миру, к образам психики, к собственным чувствам и эмоциональным потребностям. Реализовать свою потребность заботиться о безопасности и поддержании жизни. </span></p>
+
+<p class="MsoNormal"><i style=""><span lang="RU">Опасность: </span></i><span lang="RU">бездомность. Принесение собственного внутреннего мира, семейной жизни в жертву карьере, статусу, общественному положению, и тому, от кого вы зависите или кого боитесь. Погоня за внешним успехом и прибылью в ущебр душевного равновесия и покоя. </span></p>
+
+<p class="MsoNormal"><span lang="RU">Ваш дом и семья дают вам прекрасные возможности для эволюционного роста. Материальные же блага вы добываете посредством операций с недвижимостью, знания истории, антиквариата. </span></p>
+
+<p class="MsoNormal"><b style=""><i style=""><span lang="RU">Восходящий в 5 доме</span></i></b></p>
+
+<p class="MsoNormal"><i style=""><span lang="RU">Главная тема: </span></i><span lang="RU">конфликт между страстной, чувственной, эротичной любовью и отношениями просто дружескими, между тягой к использованию своей власти над людьми и стремлением растворить свое &quot;я&quot; в коллективе.</span></p>
+
+<p class="MsoNormal"><i style=""><span lang="RU">Задача: </span></i><span lang="RU">стать творцом. Дать выход своему творческому началу через хобби, увлечение, игру, детей и радость. Реализовать свои творческие способности. Воспринимать жизнь, как увлекательную игру. </span></p>
+
+<p class="MsoNormal"><i style=""><span lang="RU">Опасность: </span></i><span lang="RU">стать паразитом. Оказаться не центровым игроком, а крайним, в лучшем случае полусредним. Пожертвовать реализацией своего &laquo;Я&raquo; в угоду интересам группы. Лишние обязательства и обязанности, ложное устремление быть вместе со всеми и всем помогать означают утрату собственной силы и инициативы. Постоянная необходимость что-то кому-то доказывать. </span>Альтруизм.</p>
+
+<p class="MsoNormal"><span lang="RU">Самый жизненно важный источник вашего эволюционного роста &ndash; это творческое самовыражение. Именно через него вы развиваете свой потенциал и обогащаете смысл своей жизни. Дети для вас &ndash; как дар Божий, фигурально выражаясь. Вам нужно расширить круг вашего дружеского общения, осознать силу личности в коллективной деятельности, а также то духовное единение, которое возможно лишь между свободными индивидуальностями. Ищите в коллективе свою уникальную творческую роль и играйте ее на пике своих творческих возможностей. Блистайте. И не приносите свои личные творческие интересы в жертву друзьям, коллективу. Вам нужно отказаться от узко понимаемого альтруизма. Ваша цель &ndash;&nbsp; творчески раскрыть свою личность, а не служить друзьям и коллективу, подавляя свои эгоические порывы. </span></p>
+
+<p class="MsoNormal"><b style=""><i style=""><span lang="RU">Восходящий в 6 доме&nbsp;</span></i></b><span lang="RU"> </span></p>
+
+<p class="MsoNormal"><i style=""><span lang="RU">Главная тема: </span></i><span lang="RU">конфликт между рациональным подходом к повседневной рутине и иррациональным ощущением бессмысленности усилий в физическом мире перед лицом Вечности, между прозой реальной действительности и поэзией возвышенных мечтаний, между добровольным включением в систему рационального труда и принесением себя в жертву беззаветным служением. </span></p>
+
+<p class="MsoNormal"><i style=""><span lang="RU">Задача: </span></i><span lang="RU">научиться мыслить и действовать конкретно. Спокойно относиться к текущим делам, к окружающей действительности и трудовым обязанностям, к заботам о поддержании здоровья. Посвящайте меньше времени фантазиям, мечтаниям и уходу в себя, и больше &ndash; активности в повседневной жизни. Используйте свое умение отгадывать фантастические загадки в решении насущных приземленных проблем. Откажитесь от (духовной) обособленности и интегрируйтесь в рутинный социум, став его активным трудящимся членом. </span></p>
+
+<p class="MsoNormal"><i style=""><span lang="RU">Опасность: </span></i><span lang="RU">уйти &laquo;в космические дали&raquo; вместо того, чтобы использовать свои способности тонко воспринимать в решении повседневных задач. Непричастность ни к чему, неумение и нежелание выполнять взятые на себя трудовые обязательства, неаккуратность, забывчивость, самоизоляция, высокомерный или даже эйфорический эскейпизм.<span style=""> Саморазрушение. </span></span></p>
+
+<p class="MsoNormal"><span lang="RU">Эта позиция укрепляет ваше здоровье, улучшает ваши условия труда и ваши перспективы эволюционного развития посредством тонкой точной работы или интеллектуального труда. При ней возможны спонтанные выздоровления. В определенные моменты те системы взглядов, при которых вы заболели, терпят крах, и на их месте возникают новые. Восходящий узел в этой позиции может означать природный талант лекаря, который можно будет использовать новым, передовым способом. Ваше саморазрушение становится препятствием на пути ваших самых тщательных усилий. Чего бы вы ни добивались, все будет идти вверх тормашками, если свои нереалистические фантазии и саморазрушительные потребности вы будете ставить выше необходимости выполнять конкретную работу по поддержанию здоровья и хороших бытовых условий. </span>Вы зарабатываете благодаря работе по найму, службе в государственных страктурах и в армии, выполняя работу врача, учителя, а также любую точную и тонкую работу, требующую сосредоточения и высокого интеллекта.</p>
+
+<p class="MsoNormal"><b style=""><i style=""><span lang="RU">Восходящий в 7 доме</span></i></b></p>
+
+<p class="MsoNormal"><i style=""><span lang="RU">Главная тема: </span></i><span lang="RU">конфликт между стремлением к паритетному сотрудничеству, гармоничному партнерству, с одной стороны, и потребностью в ничем не ограниченном проявлении собственного &laquo;Я&raquo; - с другой.</span></p>
+
+<p class="MsoNormal"><i style=""><span lang="RU">Задача: </span></i><span lang="RU">найти человека, с которым можно быть самим собой. Согласовать собственные интересы с интересами партнера, договориться о взаимном уважении к интересам друг друга.&nbsp; </span></p>
+
+<p class="MsoNormal"><i style=""><span lang="RU">Опасность: </span></i><span lang="RU">зацикленность на себе, увлеченность лишь собственными интересами. Неспособность наладить и закрепить отношения с другим человеком. </span></p>
+
+<p class="MsoNormal"><span lang="RU">Вы обогащаетесь и растете благодаря браку и партнерским отношениям. Такое положение позволяет вам прекрасно ориентироваться в общественных настроениях и мыслях, а это может быть полезно в любой деятельности. Эволюционный рост приходит через уравновешивание личных потребностей с потребностями супруга или партнера, не принося при этом ему в жертву собственные интересы. </span>Вы зарабатываете за счет сотрудничества с другими людьми, за счет сделок, общественной работы и политики.</p>
+
+<p class="MsoNormal"><b style=""><i style=""><span lang="RU">Восходящий в 8 доме</span></i></b></p>
+
+<p class="MsoNormal"><i style=""><span lang="RU">Главная тема: </span></i><span lang="RU">конфликт между стремлением &quot;копать глубоко&quot;, расследовать, преодолевать кризисы. накапливать богатство и оперировать финансами других, с одной стороны, и желанием сохранито то, что имеется, ничего глубоко не меняя, - с другой. </span></p>
+
+<p class="MsoNormal"><i style=""><span lang="RU">Задача: </span></i><span lang="RU">примириться с бренностью всего сущего и смертью как частью цикла Жизнь-Смерть-Жизнь. Копить сокровища. Быть готовым к конфликтам, к нарушению общественных правил и табу в случае необходимости, а не отступать на позиции благостной вселюбви, лишь бы ничего не менялось. В сексе найти его подлинный, глубинный смысл, проникнуть в его чувственный опыт, кроющийся под поверхностью наслаждения и страсти. </span></p>
+
+<p class="MsoNormal"><i style=""><span lang="RU">Опасность: </span></i><span lang="RU">зацикленность на своих ценностях, талантах и способностях, недостатках и ограничениях, на всем прочном, привычном, приземленном, неизменном. Готовность &laquo;продаться&raquo; ради возможности сохранять что-то втайне, стабильно получать один и тот же доход, ничего существенно в жизни не меняя, ничем не рискуя, не преодолевая кризисов и маргинальных состояний. Считать сокровищем лишь то, что уже имеется на сегодняшний день в распоряжении, а не то, что скрыто как потенциал и требует усилий по раскрытию. Стремление затушевывать, обходить кризисные ситуации. </span></p>
+
+<p class="MsoNormal"><span lang="RU">Такое расположение улучшает перспективы сексуального здоровья и долголетия. Вы обогащаетесь благодаря финансовым отношениям с другими людьми, общим деньгам, контрактам с партнерами, а также благодаря изучению скрытых вещей, раскрытию тайн. Избавьтесь от вашего дотеперешнего отношения к деньгам, откажитесь от привычных для вас путей их зарабатывания.&nbsp; </span></p>
+
+<p class="MsoNormal"><b style=""><i style=""><span lang="RU">Восходящий в 9 доме</span></i></b></p>
+
+<p class="MsoNormal"><i style=""><span lang="RU">Главная тема: </span></i><span lang="RU">конфликт между стремлением к более широкому знанию и привычкой довольствоваться статьями из энциклопедии, новостями из СМИ и сплетнями. </span></p>
+
+<p class="MsoNormal"><i style=""><span lang="RU">Задача: </span></i><span lang="RU">получить широчайшие познания, высшее образование. Искать и находить истинный, нужный именно тебе смысл во всех окружающих идеях и явлениях. Надо учиться серьезным вещам, надо путешествовать, посещать чужие страны и так постепенно строить свое мировоззрение. Вдохновляться достижениями других. Отойти от расхожих ментальных шаблонов, клише. Преодолеть рамки повседневности, чтобы увидеть новые горизонты и поставить перед собой высокие, действительно значимые цели, вдохновленные идеалом Человека. </span></p>
+
+<p class="MsoNormal"><i style=""><span lang="RU">Опасность: </span></i><span lang="RU">заблудиться и запутаться в идеологических дебрях и религиозно-философских системах, не умея отличить ценное знание от бесполезного. Привычка брать лишь &laquo;вершки&raquo;, так и не найдя смысла жизни. </span></p>
+
+<p class="MsoNormal"><span lang="RU">Путь к вашему самому мощному росту лежит через расширение сознания, через высшее образование и заграницу, через проникновение в суть чужих культур и выработку личной философии. Это расположение дает развитые способности к юриспруденции, преподаванию, изучению иностранных языков и вообще любому серьезному обучению. Вы должны отбросить старые схемы мышления, которые сдерживают ваш интеллектуальный рост. Противодействуйте вашей склонности к ментальной лености. Углубляйтесь в то, что вас интересует. Найдите свою интеллектуальную нишу. Стремитесь получить высшее образование как способ достижения этой цели.</span> Вы можете заработать на издательской деятельности, сфере образования и юриспруденции, туристическом бизнесе.</p>
+
+<p class="MsoNormal"><b style=""><i style=""><span lang="RU">Восходящий в 10 доме </span></i></b></p>
+
+<p class="MsoNormal"><i style=""><span lang="RU">Главная тема: </span></i><span lang="RU">конфликт между стремлением сделать карьеру, реализоваться в профессии и получить высокий общественный статус, с одной стороны, и оставаться в доме родителей, строя собственную семейную жизнь по их образцу, &ndash; с другой.</span></p>
+
+<p class="MsoNormal"><i style=""><span lang="RU">Задача: </span></i><span lang="RU">покинуть &laquo;родное гнездышко&raquo; и включиться в серьезные долгосрочные прокеты в жизни общества.<i style=""> </i>Стать взрослым, научиться дисциплине. Самодисциплина, последовательность, умение идти прямым путем. Освободитесь от эмоциональной и материальной зависимости от родных, близких, научитесь быть высоким начальником самому себе. </span></p>
+
+<p class="MsoNormal"><i style=""><span lang="RU">Опасность: </span></i><span lang="RU">остаться инфантильным, не повзослеть. Эмоциональная зависимость от своей работы, от общественных обязанностей и положения, от начальства &ndash; или, наоборот, полное врастание в спасительный уют семьи. Такой человек постоянно требует внимания, снисхождения и защиты, не желая соприкасаться с серьезными ситуациями, требующими дисциплины, аскетизма, экономии. Неумение и нежелание отвечать за свои выборы и поступки, данные обещания, привычка винить в своей неудовлетворенности кого-то другого. </span></p>
+
+<p class="MsoNormal"><span lang="RU">Юпитер и Венера, вместе взятые, вряд ли могли бы дать вам то, что дает Восходящий Узел в десятом доме! Вы просто не можете проиграть: словно само Провидение защищает вас (фигуральное выражение). Ваши карьерные планы совершенны. Вы духовно эволюционируете благодаря профессиональному росту. Преодолевая глубоко укоренившиеся патриархальные взгляды на семью и дом, вы открываете в себе огромный потенциал эволюционного роста. Знак положения вашего Восходящего Узла указывает вам путь, каким вы можете этого достичь. </span>Вы зарабатываете благодаря своей профессии и карьерному росту, статусу и репутации, вовлеченности в серьезные долгосрочные общественные проекты, в земельный бизнес, в производственный процесс, в государственную систему управления.</p>
+
+<p class="MsoNormal"><b style=""><i style=""><span lang="RU">Восходящий в 11 доме </span></i></b></p>
+
+<p class="MsoNormal"><i style=""><span lang="RU">Главная тема: </span></i><span lang="RU">конфликт между стремлением исполнять свою уникальную творческую роль в группе, с одной стороны, и желанием брать ответственность за группу на себя, руководить нетворческими некомпетентными людьми в надежде обучить их творчеству - с другой. </span></p>
+
+<p class="MsoNormal"><i style=""><span lang="RU">Задача: </span></i><span lang="RU">изобретать, не удовлетворяясь блестящими личными достижениями прошлого. Находить друзей и единомышленников <span lang="RU"> среди свободных творцов</span>, с которыми можно осуществлять групповые проекты.</span> Оставьте идею управлять миром в одиночку. Оставьте идею одной лишь своей харизмой, не принуждая и не порабощая, не отдавая приказов заставить людей делать то, что Вам хочется, показав им, как надо, научив их и убедив их.</p>
+
+<p class="MsoNormal"><i style=""><span lang="RU">Опасность: </span></i><span lang="RU">если вокруг не находится людей, необходимых для реализации вашего личного творческого проекта, нет людей способных, независимых и компетентных, не стоит надеяться, что вы можете объединиться с людьми некомпетентными и с паразитами, обучая их или просто обходясь с ними как с роботами, которые будут получать приказы и действовать без личной инициативы или ответственности, а Вы при этом будете нести ответственность за целый коллектив. Все это невозможно. Это было бы ошибкой и привело бы к неудаче. </span></p>
+
+<p class="MsoNormal"><span lang="RU">Друзья и единомышленники помогают вам реализовать ваши творческие намерения. Группы, с которыми вы объединяетесь, способствуют вашему эволюционному росту и усиливают ваш жизненный потенциал. Вам необходимо решительно избавиться от устаревших взглядов на детей, любовь (влюбленность, самовыражение в любви) и творческую деятельность, развлечения, хобби, удовольствия. </span></p>
+
+<p class="MsoNormal"><b style=""><i style=""><span lang="RU">Восходящий в 12 доме</span></i></b></p>
+
+<p class="MsoNormal"><i style=""><span lang="RU">Главная тема: </span></i><span lang="RU">конфликт между стремлением разгадывать трансцендентальные загадки, с одной стороны, и повседневной рутинной работой, бытовыми задачами и заботой о здоовье - с другой. Между хаосом и упорядоченностью, между саморазрушением беззаветного служения и рациональным трудом. </span></p>
+
+<p class="MsoNormal"><i style=""><span lang="RU">Задача: </span></i><span lang="RU">начать исследовать так называемый хаос, коллективное бессознательное. Отвлечься от рутинных повседневных дел и удалиться в уединение с целью познать свое саморазрушение. </span></p>
+
+<p class="MsoNormal"><i style=""><span lang="RU">Опасность: </span></i><span lang="RU">помешанность на чистоте и порядке и стремление контролировать все и вся, избегая стлкновения с загадками, на коорые пришлось бы искать ответ. </span></p>
+
+<p class="MsoNormal"><span lang="RU">Вы защищены от людей, которые действуют против вас, от тайных врагов. Более того: возможно, вам в конце концов удастся преодолеть собственную склонность к саомразрушению. Вы наделены способностью оборачивать неблагоприятные обстоятельства себе на пользу, погружаясь в колодец коллективного бессознательного. Вы имеете выгоду от деятельности в сфере метафизики, антропологии, культурологии, истории цивилизаций, мифологии, кинематографистики, искусства, а также от какой угодно уединенной, непубличной работы. Через преодоление саморазрушения вы освобождаетесь от глубоко укоренившихся взглядов на рутинную работу и здоровье. Даже если вы работаете в уединении, все равно результаты вашего труда находят дорогу к публике, которая платит за них. Необходимо осознать, что все на вашем пути, начиная со здоровья и заканчивая условиями жизни, зависит от вашей внутренней честности, от вашей способности освобождаться от иллюзий. </span></p>
+
+<p class="MsoNormal"><b style=""><span lang="RU">Аспекты Лунных Узлов. </span></b></p>
+
+<p class="MsoNormal"><i style=""><span lang="RU">Соединения </span></i><span lang="RU">с планетой, Парсом Фортуны и угловыми точками гороскопа делают Узел акцентированным в карте. С другой стороны, соединения влияют на качество аспектированного Узлом фактора гороскопа: Восходящий Узел усиливает позитивное влияние фактора, Нисходящий &ndash; усиливает негативное. </span></p>
+
+<p class="MsoNormal"><i style=""><span lang="RU">Квадраты узлов (тауквадрат) </span></i><span lang="RU">мешают нам, отвлекая нас от конструктивной деятельности в тех сферах, на которые указывают задействованные тауквадратом дома, особенно в сфере дома, где расположен фактор в вершине тауквадрата. Вместо этого они часто обращают наше внимание на раздражающие вопросы, которых раньше мы старались избегать. <span style="">&nbsp;</span></span></p>
+
+<p class="MsoNormal"><b style=""><i style=""><span lang="RU">Солнце/Восходящий. </span></i></b><i style=""><span lang="RU">Соединение: </span></i><span lang="RU">усиливает роль знака и дома, в которых находится. Все способности, склонности и возможности требуют реализации, и рано или поздно вы добьетесь своего. Вы способны быть лидером и иметь правительственные полномочия. Но при таком аспекте в оппозиции к Солнцу стоит Нисходящий Узел, потому на него следует особенно обращать внимание при толковании карты. Возможно, что незадолго до вашего рождения было солнечное или лунное затмение. </span></p>
+
+<p class="MsoNormal"><b style=""><i style=""><span lang="RU">Солнце/Нисходящий.</span></i></b><i style=""><span lang="RU"> Соединение: <b style=""><span style="">&nbsp;</span></b></span></i><span lang="RU">Обстоятельства вашей жизни ограничивают для вас возможности творчески самовыражения. Положение в доме указывает на пораженную сферу. Чтобы определить, каких сфер вашей жизни это касается в первую очередь, присмотритесь к домам, где расположено Солнце и Лунные Узлы. </span></p>
+
+<p class="MsoNormal"><i style=""><span lang="RU">В резонансе &ndash; секстиль/трине: </span></i><span lang="RU">непротиворечивость жизненных устремлений и реальной жизни. Мощная и небесполезная поддержка энергий солнечного знака. Но может быть и обломовщина со всеми ее регулярно упускаемыми шансами. Вы комфортно чувствуете себя в любой ситуации и с какими угодно людьми. Так и есть: обстоятельства вашей жизни в основном благоприятны для вас. Для преодоления препятствий вам достаточно приложить незначительные усилия. </span></p>
+
+<p class="MsoNormal"><i style=""><span lang="RU">В диссонансе - тауквадрат: </span></i><span lang="RU">постоянные противоречия и конфликты между требованиями солнечного знака и реальными задачами Лунного Узла. Отсюда неуверенность и неясность в отношении дальнейшего жизненного пути, внутренняя неуравновешенность, робость, инертность, неумение принимать решения и задержки личностного развития. Эта конфигурация может быть очень динамичной и побуждать вас к движению вперед.<span style=""> </span>Но пока вы этого не поймете, вы будете ощущать определенные ограничения в личной и общественной жизни. Ключ для преодоления этого лежит в доме, в котором расположено ваше Солнце. </span></p>
+
+<p class="MsoNormal"><b style=""><i style=""><span lang="RU">Луна/Восходящий. </span></i></b><i style=""><span lang="RU">Соединение: </span></i><span lang="RU">Вы держите руку на пульсе общественной жизни и используете это себе во благо. Ваши отношения с женщинами обычно добрые; каким-то образом вы даже имеете из этого выгоду. </span></p>
+
+<p class="MsoNormal"><b style=""><i style=""><span lang="RU">Луна/Нисходящий. </span></i></b><i style=""><span lang="RU">Соединение:</span></i><span lang="RU"> вы неумело рассчитываете ваши действия. Вам как-то не удается оказываться в нужное время в нужном месте. Успех не способствует вам; это может привести к депрессии, озлобленности, в конце концов, к одиночеству. Но если вы научитесь укрощать свои эмоциональные реакции, то будете иметь успех &ndash; вопреки всему.<span style=""> </span>Мировоззренческие установки, которые мешают вам идти вперед, берут начало в раннем детстве; они глубоко укоренены в вашу психическую основу. Если вы решитесь сломать эти схемы, делайте это постепенно. Дом, в котором расположен<span style="">&nbsp; </span>восходящий, подскажет вам, с какой сферой вашей жизни следует работать. </span></p>
+
+<p class="MsoNormal"><i style=""><span lang="RU">В резонансе &ndash; в секстиле/трине: </span></i><span lang="RU">инстинктивное стремление идти тем путем, который указывает Лунный Узел в доме, и в том стиле, который указывает Лунный Узел в знаке. Интуитивное, часто неосознанное открытие и использование возможностей, предлагаемых домом и знаком Узла. Эмоции хорошо гармонируют с направлением пути. Хотя вы и помните все неприятности и потери, что были в прошлом, они не висят тяжестью на ваших ногах. Вы сумели сделать из них выводы и теперь смотрите в будущее. Ваши инстинкты редко когда подводят вас. Прислушивайтесь к ним. Лелейте свой внутренний голос. </span></p>
+
+<p class="MsoNormal"><i style=""><span lang="RU">В диссонансе - тауквадрат: </span></i><span lang="RU">потребности Луны и ее стремление к эмоциональному комфорту и домашнему очагу противоречат положению Лунного Узла и его задачам. Вы чувствуете себя несчастным, страдаете от проблемы выбора, раздражены, недовольны, блуждаете в потемках. Тауквадрат подталкивает вас к преодолению эмоциональных предубеждений и подсознательных предрассудков. Пока вы не начнете работать в этом направлении, вас ожидают проблемы с женщинами и трудности с реализацией ваших амбиций.<span style="">&nbsp; </span></span></p>
+
+<p class="MsoNormal"><b style=""><i style=""><span lang="RU">Меркурий/Восходящий. </span></i></b><i style=""><span lang="RU">Соединение: </span></i><span lang="RU">вы всегда в движении, всегда в курсе настроений и предпочтений общественности. Вы можете стать интеллектуальным лидером, носителем какой-то идеи или доктрины. Вы развиваетесь благодаря своим коммуникативным способностям. </span></p>
+
+<p class="MsoNormal"><b style=""><i style=""><span lang="RU">Меркурий/Нисходящий. </span></i></b><i style=""><span lang="RU">Соединение:</span></i><span lang="RU"> вам не повезло с умением выбирать подходящее время: вы то опаздываете, то слишком спешите. Это может привести к глубокой угнетенности, но впадать в отчаяние &ndash; это самый легкий путь. Упорно настаивайте на своем &ndash; вы, конце концов, добудете победу. Не останавливайтесь на уже добытых знаниях &ndash; продолжайте учиться. При таком аспекте проявляет себя склонность к умственной лени. Через образование и интеллектуальное развитие вы преодолеете ограничения, обусловленные Нисходящим Узлом. </span></p>
+
+<p class="MsoNormal"><i style=""><span lang="RU">В резонансе &ndash; в секстиле/трине: </span></i><span lang="RU">ум и умение хорошо ориентироваться на жизненном пути. Постоянная перепроверка собственных мотивов и побуждений, критическое отношение к собственной личности и ее недостаткам, открытость и конструктивность в общении с другими. Аналитическое, логическое мышление, помогающее справляться с проблемами и трудностями жизни. Интеллектуальная легкость<span style="">&nbsp; </span>и непринужденность. Этот талант поможет вам в преодолении препятствий, которые мешают вам продвигаться вперед. </span></p>
+
+<p class="MsoNormal"><i style=""><span lang="RU">В диссонансе - тауквадрат: </span></i><span lang="RU">потеря ориентации на жизненном пути. Интеллект находит все новые &laquo;уважительные причины&raquo;, чтобы не идти в заданном направлении. Тупая, бессмысленная оборона и попытка удержать старые, давно ставшие проигрышными позиции. Прежде, чем что-то сказать, думайте, иначе сказано будет не то и не вовремя. Глубже интересуйтесь окружающим миром: осознание современных тенденций поможет вам реализовать ваши профессиональные амбиции. </span></p>
+
+<p class="MsoNormal"><b style=""><i style=""><span lang="RU">Венера/Восходящий. </span></i></b><i style=""><span lang="RU">Соединение:</span></i><span lang="RU"> вам везет быть в нужное время в нужном месте. Благодаря социальным контактам вы добываете все необходимое для личного успеха. </span></p>
+
+<p class="MsoNormal"><b style=""><i style=""><span lang="RU">Венера/Нисходящий. </span></i></b><i style=""><span lang="RU">Соединение: </span></i><span lang="RU">довольно часто вы ощущаете определенную эмоциональную изоляцию, но виною тому ваш собственный стиль поведения. Воспитывайте в себе тактичность; не надоедайте людям, когда те сосредоточенно занимаются чем-то другим. Вас как будто удовлетворяют обычные схемы обращения ваших финансов, установленные формы ваших отношений с другими&hellip; Вы их даже не анализируете, в то время как вам стоило бы попробовать их изменить. Иначе вам будет очень тяжело преодолеть ограничения, обусловленные Нисходящим Узлом. </span></p>
+
+<p class="MsoNormal"><i style=""><span lang="RU">В резонансе &ndash; в секстиле/трине: </span></i><span lang="RU">любовь, симпатия, внимательность, эротика, взаимопомощь и тесная взаимосвязь с другими людьми, а также чувство прекрасного, понимание искусства и хороший вкус, делающие союз гармоничным и долговечным. Особая роль женского начала как мощного потенциала на пути развития личности, который необходимо осознать и реализовать. Через ваши социальные контакты вы находите благоприятные возможности для достижения своих целей.<span style=""> </span>Вы уделяете много внимания надлежащему социальному поведению и правилам этикета, что позволяет вам преодолевать проблемы вашего Нисходящего Узла. </span></p>
+
+<p class="MsoNormal"><i style=""><span lang="RU">В диссонансе - тауквадрат: </span></i><span lang="RU">постоянные затруднения с обретением внутреннего покоя, потому что любовь всякий раз уводит вас от генеральной линии вашего развития. Отсюда, с одной стороны, непреходящее ощущение, что вы &laquo;идете не туда&raquo;, с другой &ndash; неудовлетворенная потребность в любви.<span style=""> </span>На людях ваши эмоциональные реакции являются неуместными и неадекватными. Вы &ndash; как та общеизвестная рыба, которая плывет против течения общественных норм. </span></p>
+
+<p class="MsoNormal"><b style=""><i style=""><span lang="RU">Марс/Восходящий. </span></i></b><i style=""><span lang="RU">Соединение: </span></i><span lang="RU">вы идете в ногу со временем, вы &ndash; в гармонии с вашим личным окружением. Ваше стремление к успеху (в какой именно сфере &ndash; смотрите положение конъюнкции в доме) поможет вам преодолеть какие угодно препятствия, обусловленные Нисходящим Узлом. </span></p>
+
+<p class="MsoNormal"><b style=""><i style=""><span lang="RU">Марс/Нисходящий. </span></i></b><i style=""><span lang="RU">Соединение:</span></i><span lang="RU"> вы индивидуалист-одиночка. У вас могут возникать возражения против военных ценностей и доктрин вашей страны, а также против многих современных тенденций. Вам не хватает внимания выбирать нужный момент, и это может привести к антагонизмам с другими. Если вы научитесь несколько приглушать свое вопиющее пренебрежение к общественным условностям и традициям, то сможете устранить ограничения, которые сдерживают вас. </span></p>
+
+<p class="MsoNormal"><i style=""><span lang="RU">В резонансе &ndash; секстиль/трин: </span></i><span lang="RU">натура боевая, задиристая, уверенная в себе, особенно когда дело касается жизненно важных вещей. Ради осуществления своей цели трудится активно, упорно и, как правило, достигает успеха. Готов и умеет отстаивать свои интересы. Вы умеете выбрать подходящий момент. Ваш динамичный темперамент привлекает к вам людей, которые помогают вам в ваших начинаниях. Этот аспект способствует политикам и знаменитостям, людям, которые ведут публичный образ жизни. </span></p>
+
+<p class="MsoNormal"><i style=""><span lang="RU">В диссонансе - тауквадрат: </span></i><span lang="RU">постоянное внутреннее напряжение и ощущение фрустрации, потому что марсианский боевой задор, пыл и либидо лишь отвлекают вас от выполнения вашей подлинной жизненной задачи. Подавление этих агрессивных инстинктов ведет лишь к обзаведению все новыми &laquo;врагами&raquo;, с которыми вы должны воевать, и ко все более неадекватным реакциям на внешние раздражители. Если вы будете контролировать ваш гнев и избавитесь от злости, сможете более конструктивно использовать энергию Марса. </span></p>
+
+<p class="MsoNormal"><b style=""><i style=""><span lang="RU">Юпитер/Восходящий. </span></i></b><i style=""><span lang="RU">Соединение:</span></i><span lang="RU"> необыкновенно благоприятный аспект, особенно если ваша работа каким-то образом связана с общественностью. Ваши взгляды отвечают современным тенденциям. </span></p>
+
+<p class="MsoNormal"><b style=""><i style=""><span lang="RU">Юпитер/Нисходящий. </span></i></b><i style=""><span lang="RU">Соединение:</span></i><span lang="RU"> вас преследует ощущение, будто вам постоянно мешают, как будто что-то ограничивает вас (то же самое характерно для конъюнкции Юпитера с Сатурном). Присмотритесь, в каком доме размещен Нисходящий Узел, и вы поймете, каким образом можно преодолеть ваши трудности. Будьте осторожны во время заграничных путешествий. Вы склонны к злоупотреблениям, которые мешают вашему развитию. Откажитесь от ваших вредных привычек. Занимайтесь самосовершенствованием, ориентируясь на дом расположения Восходящего Узла. </span></p>
+
+<p class="MsoNormal"><i style=""><span lang="RU">В резонансе &ndash; в секстиле/трине: </span></i><span lang="RU">вера<i style=""> </i>в свои силы и способности помогает выполнять жизненную задачу, смысл которой к тому же вам вполне ясен. Великодушие, оптимизм, удача и успех на жизненном пути. В каком бы направлении ни шла ваша жизнь, это направление всегда отвечает фактическим намерениям вашей души. </span></p>
+
+<p class="MsoNormal"><i style=""><span lang="RU">В диссонансе - тауквадрат: </span></i><span lang="RU">направление поиска смысла жизни и жизненная задача не совпадают. Отсюда глубокая внутренняя неудовлетворенность и завышенные, нереальные требования и ожидания. Вы пытаетесь получить от жизни больше, чем она может дать. Все &laquo;негативное&raquo; стараетесь не замечать. Ваши религиозные убеждения и образование шагают не в ногу с современными общественными тенденциями. Если вы попробуете исправить эту ситуацию, жить вам станет намного легче. </span></p>
+
+<p class="MsoNormal"><b style=""><i style=""><span lang="RU">Сатурн/Восходящий. </span></i></b><i style=""><span lang="RU">Соединение:</span></i><span lang="RU"> вы во всем придерживаетесь предписаний; вы достигаете успеха в консервативном окружении. Имея в оппозиции Нисходящий Узел, вы должны работать над преодолением собственных предубеждений. </span></p>
+
+<p class="MsoNormal"><b style=""><i style=""><span lang="RU">Сатурн/Нисходящий. </span></i></b><i style=""><span lang="RU">Соединение:</span></i><span lang="RU"> вы слишком суровы и жестки; напрасно вы считаете, что это идет вам на пользу. На самом деле это сдерживает вас в профессиональном и личном плане. Научитесь расслабляться и спокойно рассуждать, к чему именно вы стремитесь. Если вы хотите развиваться дальше, вам следует порвать с традициями и условностями. Попробуйте что-то новое, найдите что-то необычное. </span></p>
+
+<p class="MsoNormal"><i style=""><span lang="RU">В резонансе &ndash; в секстиле/трине.</span></i><span lang="RU"> Постоянная, сосредоточенная и очень индивидуальная работа над осуществлением жизненной цели. Все делается последовательно, неутомимо и упорно. Высокие требования к другим и к себе. Постепенно перерастаете &laquo;положенные&raquo; вам пределы и рамки. Если вы прилагаете усилия, то делаете это с определенной целью.<span style="">&nbsp; </span>Чтобы ваша деятельность была максимально плодотворной, вы тщательно планируете ее, разрабатывая целую методологию. Такой основательный подход позволяет вам преодолевать все препятствия, обусловленные Нисходящим Узлом. </span></p>
+
+<p class="MsoNormal"><i style=""><span lang="RU">В диссонансе - тауквадрат.</span></i><span lang="RU"> Свою жизненную задачу воспринимаете пессимистически, если не сказать безнадежно. Считаете себя ни на что неспособным и испытываете непреодолимый страх перед необходимостью переступить очередной порог на пути саморазвития. Думаете, что &laquo;найти себя&raquo; вам мешают повседневные обязанности и быт. Находите утешение в древних верованиях и представлениях прошлых эпох. Часто требуете от самого себя слишком многого.&nbsp;Вытесненные, подавленные предрассудки сдерживают ваше развитие. Честная осознание долга поможет вам преодолеть связанные с этой квадратурой трудности. </span></p>
+
+<p class="MsoNormal"><b style=""><i style=""><span lang="RU">Уран/Восходящий. </span></i></b><i style=""><span lang="RU">Соединение:</span></i><span lang="RU"> вы интуитивно ощущаете новейшие тенденции в науке и технике, клубной жизни и политических и экономических реформах, а также в каком угодно деле, которое касается влияния на большие массы людей. И лучше вам не стараться идти поперек этим тенденциям: осмелившись на это, вы потерпите уничтожающий удар со стороны вашего Нисходящего Узла. </span></p>
+
+<p class="MsoNormal"><b style=""><i style=""><span lang="RU">Уран/Нисходящий. </span></i></b><i style=""><span lang="RU">Соединение: </span></i><span lang="RU">ваша жизнь столкнется с деструктивным влиянием сиюминутных, проходящих тенденций. Лучше идти с ними в ногу, иначе вам будет худо. Вам следует смягчить свое эксцентричное поведение и стараться идти в ногу с господствующими общественными тенденциями. Даже если, на первый взгляд, это ограничивает вашу свободу, в конечном итоге ваша свобода только выиграет. </span></p>
+
+<p class="MsoNormal"><i style=""><span lang="RU">В резонансе &ndash; в секстиле/трине.</span></i><span lang="RU"> Легко расстаетесь со всем старым, традиционным, ища возможность реализовать свои идеи и выполнить жизненную задачу. Развитие личности идет в согласии с жизненным предназначением. Придерживаясь гуманистических идеалов и прогрессивного способа мышления, вы эволюционируете. </span></p>
+
+<p class="MsoNormal"><i style=""><span lang="RU">В диссонансе - тауквадрат.</span></i><span lang="RU"> Живете, &laquo;как душа просит&raquo;, по своим законам. Но ощущаете несоответствие между своими индивидуальными запросами и желаниями, своим стремлением к полной свободе и независимости, с одной стороны, и своим же собственным ощущением жизненного предназначения &ndash; с другой. Заставить себя заняться действительно важным и нужным делом удается вам лишь с большим трудом. Вас мало заботят традиции. В глубине души вы конформист, причем иногда заходите в этом так далеко, что это отталкивает от вас именно тех людей, которые могли бы вам пригодиться. </span></p>
+
+<p class="MsoNormal"><b style=""><i style=""><span lang="RU">Нептун/Восходящий.</span></i></b><i style=""><span lang="RU"> Соединение:</span></i><span lang="RU"> расслабьтесь. Прислушивайтесь к своим интуитивным импульсам. Они помогут вам в подходящее время попасть в нужное место, чтобы начать необходимые контакты с полезными вам людьми. Вы должны научиться противостоять настроениям толпы. Не поддавайтесь массовой истерии, чего бы она ни касалась. </span></p>
+
+<p class="MsoNormal"><b style=""><i style=""><span lang="RU">Нептун/Нисходящий. </span></i></b><i style=""><span lang="RU">Соединение:</span></i><span lang="RU"> нелегкий аспект. Вы говорите не то, что нужно, и не тогда, когда нужно. Вам трудно скомпоновать в единое целое разрозненные эпизоды вашей жизни. Идите последовательно вперед, сохраняйте собственное &laquo;Я&raquo; и никогда не забывайте, что именно вы являетесь творцом вашей реальности. Ваши привычки укоренены так глубоко, что вы воспринимаете их как неотъемлемую часть вашей натуры. Но если вы от них не избавитесь, вы не сможете полностью реализовать свой потенциал. </span></p>
+
+<p class="MsoNormal"><i style=""><span lang="RU">В резонансе &ndash; в секстиле/трине.</span></i><span lang="RU"> Вы человек, ведомый по жизни некоей высшей силой, как лунатик по крыше, и выполняющий все свои задачи точно и вовремя, даже не задумываясь над этим. Интерес к фантастическим мирам, к культурологии и мифологии составляет необходимую и неотъемлемую часть вашего жизненного предназначения. Ваши сверхъестественные инстинкты, благодаря которым вы заранее ощущаете общественные тенденции, дают вам возможность всегда быть первым и уверенно чувствовать себя в любой нестандартной ситуации. Ваш интерес к разгадыванию загадок позволяют вам эволюционировать, преодолевая ограничения, обусловленные Нисходящим Узлом.</span></p>
+
+<p class="MsoNormal"><i style=""><span lang="RU">В диссонансе - тауквадрат.</span></i><span lang="RU"> Представления о жизни расплывчатые, или некое туманное ощущение о своем возвышенном жизненном предназначении. Легко отвлекаетесь от вещей действительно важных, но постоянно возвращаетесь к поиску своей истинной цели, боясь не выдержать испытаний или выбрать ложную цель. Прекратите витать в облаках &ndash; крепко держитесь за землю. Культивируйте в себе практичность. Обозначьте свою цель. Оставьте наркотики. </span></p>
+
+<p class="MsoNormal"><b style=""><i style=""><span lang="RU">Плутон/Восходящий. </span></i></b><i style=""><span lang="RU">Соединение:</span></i><span lang="RU"> вы думаете, что безошибочно все просчитали? Ну-ка, подумайте еще раз! Загляните в глубину. Ничему не верьте. Старайтесь понять скрытое. Только так вы сможете добыть победу в этой игре, которая называется жизнь. </span></p>
+
+<p class="MsoNormal"><b style=""><i style=""><span lang="RU">Плутон/Нисходящий. </span></i></b><i style=""><span lang="RU">Соединение:</span></i><span lang="RU"> над своей жизнью вы должны работать самостоятельно. Массовые общественные подвижки могут затянуть вас в вихрь таких событий, которые и фундамента не оставят от ваших оборонительных сооружений; вы вынуждены будете снова и снова начинать все с нуля. Проделайте работу над ошибками. Попробуйте постичь схему событий: лишь тогда вы сможете вырваться из нее и идти дальше. Прежде чем вы сможете развиваться, направляясь в сторону вашего Восходящего Узла, должны отдать старые долги. На первом этапе эти долги сами напомнят о себе, и обстоятельства вынудят вас, так или иначе, развязать эту проблему. </span></p>
+
+<p class="MsoNormal"><i style=""><span lang="RU">В резонансе &ndash; в секстиле/трине.</span></i><span lang="RU"> Увлекающаяся натура, ваши увлечения совпадают с направлением жизненного предназначения. Все ощущения &laquo;мощи и немощи&raquo;, кризисы (даже болезненные) и встречи со своей тенью ведут в том же направлении, помогая решать главную жизненную задачу. Ваша развитая интуиция представляет собой наиценнейший актив: она позволяет вам сквозь пелену обмана видеть скрытую истину. Вы способны влиять на способ мышления других людей. Эти аспекты благоприятствуют людям, которые занимаются публичной деятельностью. </span></p>
+
+<p class="MsoNormal"><i style=""><span lang="RU">В диссонансе - тауквадрат. </span></i><span lang="RU">Сильная внутренняя напряженность и ощущение &laquo;одержимости бесом&raquo;, потому что инстинкты и душевные порывы влекут вас в сторону от кардинальной линии развития, от главной жизненной цели. Ощущение непонимания себя и мира. Вовсе не все должно сводиться к дилемме &laquo;пан или пропал&raquo;. Приспосабливаясь к нюансам массовой культуры и к другим современным тенденциям, вы преодолеете негативные стороны этой квадратуры. </span></p>
+
+<p class="MsoNormal"><b style=""><i style=""><span lang="RU">Восходящий в соединении с Асцендентом. </span></i></b><span lang="RU">Ваше жизнелюбие и оптимизм делают вас общим любимцем. Вам нужно выработать собственные взгляды на убеждения и действовать соответственно им, а не ориентироваться на установленные стереотипы.</span></p>
+
+<p class="MsoNormal"><b style=""><i style=""><span lang="RU">Нисходящий в соединении с Асцендентом. </span></i></b><span lang="RU">Вы крайний индивидуалист, и это делает вас одиноким среди людей, потому что люди вас не понимают. Вам кажется, что вас ограничивают в социальном плане. Вы имеете выгоду благодаря вашим общественным связям. Однако вы можете испытывать некоторые ограничения в сфере интимных отношений. </span></p>
+
+<p class="MsoNormal"><i style=""><span lang="RU">Узлы в секстиле/трине с Асцендентом/Десцендентом. </span></i><span lang="RU">Комфортный аспект. Ваш житейский статус целиком удовлетворяет вас. Ваша жизнерадостность и уверенность в себе передаются другим людям, которые часто помогают вам в построении карьеры. Этот аспект обычно предрекает удачный брак и плодотворные партнерские отношения. </span></p>
+
+<p class="MsoNormal"><i style=""><span lang="RU">Узлы в квадратурах с Асцендентом/Десцендентом. </span></i><span lang="RU">Вас непрестанно что-то отвлекает от достижения желанного. Во всех ваших неприятностях вы склонны обвинять других людей. Вы должны понять, что вашу реальность вы создаете сами, отсюда, сами вы несете ответственность за самого себя. Только осознав это, вы станете на путь преодоления препятствий. </span></p>
+
+<p class="MsoNormal"><b style=""><i style=""><span lang="RU">Восходящий в соединении с МЦ, Нисходящий в соединении с ИЦ. </span></i></b><span lang="RU">Обычно это соединение означает удачу. Вам везет на нужных людей, которые помогают вам в профессиональной сфере. Негатив, обусловленный оппозицией нисходящего узла, состоит в том, что вы склонны брать на себя больше, чем способны справиться. Вы с большой ответственностью относитесь к своей семье. В зрелом возрасте вам, вероятно, придется опекать ваших родителей. </span></p>
+
+<p class="MsoNormal"><b style=""><i style=""><span lang="RU">Восходящий в соединении с ИЦ, Нисходящий в соединении с МЦ. </span></i></b><span lang="RU">Ваша семейная жизнь сложилась удачно; она для вас &ndash; источник психологического комфорта. Много чем вы должны быть обязаны вашим родителям: они заложили для вас солидные основы. В своей семейно жизни вы находите силы и поддержку; родина для вас &ndash; надежное пристанище. Дела идут у вас лучше тогда, когда вы сами себе начальник; если же вы все-таки будете работать под чьим-то руководством, будьте готовы к осложнениям в отношениях с начальством и коллегами. В профессиональных вопросах вы не всегда безошибочно рассчитываете, когда, что и как следует делать. Признание, на которое вы объективно заслуживаете, не приходит к вам, и это может привести к озлоблению. </span></p>
+
+<p class="MsoNormal"><i style=""><span lang="RU">Узлы в секстиле/трине с МЦ/ИЦ. </span></i><span lang="RU">Кажется, и профессиональная, и семейная ваша жизнь отмечены удачей. Вы успешно реализовываете ваши профессиональные амбиции; даже ваша семейная жизнь тем или иным образом связана с вашей карьерой. </span></p>
+
+<p class="MsoNormal"><i style=""><span lang="RU">Узлы в квадратере с МЦ/ИЦ. </span></i><span lang="RU">Ваша подавленность обнаруживается в тех двух сферах вашей жизни, которые вы цените больше всего: речь идет о карьере и семейно жизни. Возможно, эти две сферы связаны между собою более тесно, чем вам кажется. Поразмыслите над этим. </span></p>
+
+<p class="MsoNormal"><b style=""><i style=""><span lang="RU">Восходящий в соединении с Парс Фортуны. </span></i></b><span lang="RU">Ваш успех и благосостояние встретит вас в том доме, где расположена конъюнкция. </span></p>
+
+<p class="MsoNormal"><b style=""><i style=""><span lang="RU">Нисходящий в соединении с Парс Фортуны.</span></i></b><span lang="RU"> Золото волшебного горшочка может оказаться фальшивым. Уроки, которые необходимо усвоить, связаны с домом, в котором распложена конъюнкция. Знакомые играют важную роль в вашей жизни. Вы имеете выгоду<span style="">&nbsp; </span>через свои социальные связи, хотя душа ваша желает уединения. <b style=""><i style=""><span style="">&nbsp;</span></i></b></span></p>
+
+<p class="MsoNormal"><i style=""><span lang="RU">Узлы в секстиле/трине с Парс Фортуны. </span></i><span lang="RU">Часто кажется, что удача падает вам просто с неба. Если вы научитесь правильно понимать и использовать разнообразные стечения обстоятельств, которые случаются в вашей жизни, то сможете самостоятельно создавать для себя благоприятные ситуации. </span></p>
+
+<p class="MsoNormal"><i style=""><span lang="RU">Узлы в квадратуре с Парс Фортуны. </span></i><span lang="RU">Вам кажется, что вы не заслуживаете на успех и признание. Вы настолько глубоко вселили в себя эту ошибочную мысль, что сводит на нет все ваши усилия. Откуда у вас этот комплекс? Попробуйте от него избавиться, чтобы изменить свою жизнь к лучшему. <span style="">&nbsp;</span></span></p>

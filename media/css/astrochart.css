@@ -1,0 +1,75 @@
+/* Astro chema styling v1.1 */
+#schema .hidden {
+    display: none;
+}
+.chart {
+    position: relative;
+    margin-left: 30px;
+    min-height: 750px;
+}
+.chart canvas[class^="elem_"] {
+    z-index: 2;
+}
+.chart canvas {
+    position: absolute;
+}
+div.dot {
+    background-color: black;
+    position: absolute;
+    z-index: 6;
+    border-radius: 4px;
+}
+div[class^="degree_"] {
+    position: absolute;
+    width: 45px;
+    height: 25px;
+    text-align: center;
+    font-size: 21px;
+    font-weight: bold;
+    color: #666;
+    z-index: 3;
+}
+div.major {
+    height: 3px;
+    border: none;
+}
+div.minor {
+    height: 0;
+    border-top: 1px blue dashed;
+}
+.sign, div.line {
+     position: absolute !important;
+     z-index: 3;
+ }
+div.line {
+    transform-origin: 0 100%;
+}
+.frame {
+    z-index: 3;
+}
+.aspect {
+    position: absolute !important;
+    z-index: 4;
+}
+.aspect,
+div.line:hover,
+canvas.sign {
+     cursor: pointer;
+ }
+canvas.sign:hover {
+    padding: 1px;
+}
+.red {
+     border-color: red !important;
+ }
+.red.hover {
+    box-shadow: 0 0 8px red;
+    opacity: 1;
+}
+.green {
+    border-color: green !important;
+}
+.green.hover {
+    box-shadow: 0 0 8px green;
+    opacity: 1;
+}

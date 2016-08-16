@@ -1,0 +1,158 @@
+{
+  "Astrology": {
+    "href": "#",
+    "cls": "dropdown",
+    "Mundane astrology": {
+      "href": "/mundane.html",
+      "cls": ""
+    },
+    "Horary astrology": {
+      "href": "/khorar.html",
+      "cls": ""
+    },
+    "Elective astrology": {
+      "href": "/elective.html",
+      "cls": ""
+    },
+    "Image and style astrology": {
+      "href": "/image.html",
+      "cls": ""
+    },
+    "Astrology of personality": {
+      "href": "/horoscope.html",
+      "cls": ""
+    },
+    "Synastry": {
+      "href": "/sinastry.html",
+      "cls": ""
+    },
+    "Profession": {
+      "href": "/profession.html",
+      "cls": ""
+    },
+    "Predictive astrology": {
+      "href": "/prognostic_astrology.html",
+      "cls": ""
+    }
+  },
+  "Consultation": {
+    "href": "#",
+    "cls": "dropdown",
+    "Payment": {
+      "href": "/services.html",
+      "cls": ""
+    },
+    "Methods of work": {
+      "href": "/consulting.html",
+      "cls": ""
+    },
+    "Place order": {
+      "href": "/anketa.html",
+      "cls": ""
+    }
+  },
+  "Articles": {
+    "href": "#",
+    "cls": "dropdown",
+    "Directory": {
+      "href": "/articles.html",
+      "cls": ""
+    },
+    "Popular content": {
+      "href": "/articles_pop.html",
+      "cls": ""
+    },
+    "Consulting": {
+      "href": "/articles_consulting.html",
+      "cls": ""
+    },
+    "Image and style astrology": {
+      "href": "/articles_img.html",
+      "cls": ""
+    },
+    "Dictionary": {
+      "href": "",
+      "cls": "nav-header"
+    },
+    "А - Г": {
+      "href": "/astro_vocabulary.html",
+      "cls": ""
+    },
+    "Д - К": {
+      "href": "/astro_vocabularyD.html",
+      "cls": ""
+    },
+    "Л - Н": {
+      "href": "/astro_vocabularyL.html",
+      "cls": ""
+    },
+    "О - П": {
+      "href": "/astro_vocabularyO.html",
+      "cls": ""
+    },
+    "Р - С": {
+      "href": "/astro_vocabularyR.html",
+      "cls": ""
+    },
+    "Т - Я": {
+      "href": "/astro_vocabularyT.html",
+      "cls": ""
+    },
+    "separator": {
+      "href": "",
+      "cls": "separator"
+    },
+    "Visual aid": {
+      "href": "/schema.html",
+      "cls": ""
+    },
+    "Moon calendar": {
+      "href": "/calendar.html",
+      "cls": ""
+    }
+  },
+  "About me": {
+    "href": "#",
+    "cls": "dropdown",
+    "Olga Ivanets": {
+      "href": "/selfpresent.html",
+      "cls": ""
+    },
+    "References": {
+      "href": "/blog/references/#title_comments",
+      "cls": ""
+    },
+    "разделитель": {
+      "href": "",
+      "cls": "separator"
+    },
+    "Galleries": {
+      "href": "",
+      "cls": "nav-header"
+    },
+    "crafts": {
+      "href": "/gallery_craft.html",
+      "cls": ""
+    }
+  },
+  "Questions": {
+    "href": "#",
+    "cls": "dropdown",
+    "FAQ": {
+      "href": "/faq.html",
+      "cls": ""
+    },
+    "No answer": {
+      "href": "/blog/cat/news/answerless",
+      "cls": ""
+    },
+    "гор. разделитель Вопросы": {
+      "href": "",
+      "cls": "separator"
+    },
+    "Contact us": {
+      "href": "/contact.html",
+      "cls": ""
+    }
+  }
+}

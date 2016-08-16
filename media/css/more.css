@@ -1,0 +1,6 @@
+@media (max-width: 769px) {
+	.navbar-nav .nav-item {
+		float: none;
+		margin-left: 0 !important;
+	}
+}

@@ -1,0 +1,113 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ivanets\n"
+"POT-Creation-Date: 2016-06-22 22:08+0300\n"
+"PO-Revision-Date: 2016-06-22 22:16+0300\n"
+"Last-Translator: Ihor Ivanets <papajini@gmail.com>\n"
+"Language-Team: \n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: category.php:29 functions.php:40 index.php:22 single.php:17
+msgid "Edit"
+msgstr "Редагувати"
+
+#: category.php:30 index.php:23
+msgid "j F Y"
+msgstr "J FY"
+
+#: category.php:39 index.php:36
+msgid "Read more..."
+msgstr "Читати далі…"
+
+#: category.php:44 index.php:41 page.php:26
+msgid "Sorry, no posts matched your criteria."
+msgstr "Вибачте, жоден запис не відповідає Вашим критеріям"
+
+#: comments.php:9
+msgid "Enter your password to view comments."
+msgstr "Захищені коментарі: для перегляду введіть свій пароль."
+
+#: comments.php:26
+msgid "Older comments"
+msgstr "Старіші коментарі"
+
+#: comments.php:27
+msgid "Newer comments"
+msgstr "Новіші коментарі"
+
+#: comments.php:36
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "Ви мусите <a href=\"%s\">увійти</a>, щоби коментувати."
+
+#: comments.php:45
+msgid "Name"
+msgstr "Ім’я"
+
+#: comments.php:51
+msgid "Email"
+msgstr "Email"
+
+#: comments.php:57
+msgid "Site Address (URL)"
+msgstr "Адреса сайту (URL)"
+
+#: comments.php:64
+msgctxt "noun"
+msgid "Comment"
+msgstr "Коментар"
+
+#: comments.php:73
+msgid "Sorry, the comment form is closed at this time."
+msgstr "Коментування цього елемента вимкнено."
+
+#: functions.php:40
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: functions.php:54
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш коментар очікує на модерацію."
+
+#: functions.php:59
+msgid "Reply"
+msgstr "Відповіcти"
+
+#: functions.php:73
+msgid "Home"
+msgstr "Головна"
+
+#: functions.php:104
+msgid "Recommend"
+msgstr "Рекомендувати"
+
+#. Theme Name of the plugin/theme
+msgid "Ivanets"
+msgstr "Ігор Іванець"
+
+#. Theme URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://ihor.ivanets.com/"
+msgstr "http://ihor.ivanets.com/"
+
+#. Description of the plugin/theme
+msgid "Wordpress custom theme"
+msgstr "Кастомна тема Wordpress"
+
+#. Author of the plugin/theme
+msgid "Ihor Ivanets"
+msgstr "Ігор Іванець"

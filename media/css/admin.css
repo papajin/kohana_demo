@@ -1,0 +1,10 @@
+.tt-menu {
+    padding: 8px;
+    background-color: rgba(255,255,255,0.75);
+}
+span.twitter-typeahead {
+    width: 100%;
+}
+.sortable td:first-child {
+    cursor: move;
+}

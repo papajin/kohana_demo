@@ -1,0 +1,394 @@
+<!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Normal</w:View>
+  <w:Zoom>0</w:Zoom>
+  <w:TrackMoves/>
+  <w:TrackFormatting/>
+  <w:PunctuationKerning/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>RU</w:LidThemeOther>
+  <w:LidThemeAsian>X-NONE</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+   <w:SplitPgBreakAndParaMark/>
+   <w:DontVertAlignCellWithSp/>
+   <w:DontBreakConstrainedForcedTables/>
+   <w:DontVertAlignInTxbx/>
+   <w:Word11KerningPairs/>
+   <w:CachedColBalance/>
+  </w:Compatibility>
+  <m:mathPr>
+   <m:mathFont m:val="Cambria Math"/>
+   <m:brkBin m:val="before"/>
+   <m:brkBinSub m:val="&#45;-"/>
+   <m:smallFrac m:val="off"/>
+   <m:dispDef/>
+   <m:lMargin m:val="0"/>
+   <m:rMargin m:val="0"/>
+   <m:defJc m:val="centerGroup"/>
+   <m:wrapIndent m:val="1440"/>
+   <m:intLim m:val="subSup"/>
+   <m:naryLim m:val="undOvr"/>
+  </m:mathPr></w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
+  DefSemiHidden="true" DefQFormat="false" DefPriority="99"
+  LatentStyleCount="267">
+  <w:LsdException Locked="false" Priority="0" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Normal"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="heading 1"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 2"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 3"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 4"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 5"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 6"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 7"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 8"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 9"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 1"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 2"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 3"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 4"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 5"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 6"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 7"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 8"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 9"/>
+  <w:LsdException Locked="false" Priority="35" QFormat="true" Name="caption"/>
+  <w:LsdException Locked="false" Priority="10" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Title"/>
+  <w:LsdException Locked="false" Priority="1" Name="Default Paragraph Font"/>
+  <w:LsdException Locked="false" Priority="11" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtitle"/>
+  <w:LsdException Locked="false" Priority="22" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Strong"/>
+  <w:LsdException Locked="false" Priority="20" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Emphasis"/>
+  <w:LsdException Locked="false" Priority="59" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Table Grid"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Placeholder Text"/>
+  <w:LsdException Locked="false" Priority="1" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="No Spacing"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 1"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 1"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Revision"/>
+  <w:LsdException Locked="false" Priority="34" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="List Paragraph"/>
+  <w:LsdException Locked="false" Priority="29" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Quote"/>
+  <w:LsdException Locked="false" Priority="30" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Quote"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 1"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 1"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 2"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 2"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 2"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 3"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 3"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 3"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 4"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 4"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 4"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 5"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 5"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 5"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 6"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 6"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 6"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="19" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Emphasis"/>
+  <w:LsdException Locked="false" Priority="21" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Emphasis"/>
+  <w:LsdException Locked="false" Priority="31" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Reference"/>
+  <w:LsdException Locked="false" Priority="32" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Reference"/>
+  <w:LsdException Locked="false" Priority="33" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Book Title"/>
+  <w:LsdException Locked="false" Priority="37" Name="Bibliography"/>
+  <w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/>
+ </w:LatentStyles>
+</xml><![endif]--><!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Обычная таблица";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin-top:0cm;
+	mso-para-margin-right:0cm;
+	mso-para-margin-bottom:10.0pt;
+	mso-para-margin-left:0cm;
+	line-height:115%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;}
+</style>
+<![endif]-->
+<h1>2011 год &ndash; год семи затмений<span>&nbsp; </span>в гороскопе Украины</h1>
+
+<p class="MsoNormal">Новолуния или полнолуния не должны быть в точном соединении с Северным или Южным узлом, чтобы происходило затмение.</p>
+
+<p class="MsoNormal">Всякий раз, когда Солнце приближается к соединению с осью узлов, одно, два или три новолуния и полнолуния в этот период будут затмениями. В любом данном году будет два &laquo;сезона&raquo; затмений: когда Солнце находится в пределах 18 градусов от Северного или Южного узла. С момента вхождения в пределы 18 градусов от узла Солнцу требуется 36 дней, чтобы пересечь ось узлов и удалиться от этой оси на 18 градусов. Таким образом, &laquo;сезон&raquo; затмений составляет примерно 36 дней. Любое новолуние или полнолуние, происходящее в течение этих 36 дней в пределах указанных выше орбов, будет затмением.</p>
+
+<p class="MsoNormal">Новолуние, происходящее в пределах 18 градусов 31сминута<span>&nbsp; </span>от Северного или Южного Узла, может быть частным солнечным затмением. Если оно попадает в пределы 15 градусов 21 минута от любого узла, то должно быть частное солнечное затмение. Если новолуние находится в пределах от 0 градусов до 9 градусов 55 минут от любого узла, должно быть полное солнечное затмение.</p>
+
+<p class="MsoNormal">Если новолуние происходит в пределах от 9 градусов 55 минут до 11 градусов 15 минут от любого узла, затмение может быть либо полным, либо частным.</p>
+
+<p class="MsoNormal">Для лунных затмений орбы меньше. Если полнолуние происходит в пределах 12 градусов15 минут от любого узла, тогда может быть частное лунное затмение. Если полнолуние попадает в пределы 9 градусов 30 минут от любого узла, должно быть частное лунное затмение. Если полнолуние находится в пределах от 0 градусов до 3 градуса 45 минут от любого узла, должно быть полное лунное затмение. Если полнолуние происходит в пределах от 3 градусов 45 минут до 6 градусов от любого узла, лунное затмение может быть либо частным, либо полным.</p>
+
+<p class="MsoNormal">Сезон затмений не является неизменной величиной, поскольку ось узлов движется ретроградно через зодиак со скоростью около полутора градусов в месяц. Таким образом, сезоны затмений, хотя и отстоящие всегда на шесть месяцев, могут происходить<span>&nbsp; </span>в любом месяце года, следуя за ретроградным прохождением транзитного узла через зодиак.</p>
+
+<p class="MsoNormal">Астрологи иногда отмечают сезоны затмений и просто считают все 36 дней более хаотичным или напряженным периодом, не обращая внимания на реальное положение и частоту затмений в течение индивидуального сезона. При этом действует такое правило: если есть солнечное затмение, то может быть или не быть лунное затмение; но если есть лунное затмение, то обязательно есть и солнечное затмение.</p>
+
+<p class="MsoNormal">В течение одного солнечного года может быть разное количество затмений: чаще всего четыре затмения. Редко три или восемь, довольно часто пять. <span>&nbsp;</span>Так в 1917, 1927, 1954, 1992, 2000 было шесть затмений.<span>&nbsp; </span>В 1935 &ndash; <span>&nbsp;</span>восемь. <span>&nbsp;</span>В 1946, 1964, 1973, 1982 &ndash; семь.</p>
+
+<p class="MsoNormal">2011 год &ndash; год семи затмений: <a href="../../../articles/eclipses_ukraine_2010dec_jan.html">21 декабря 2010 и 4 января 2011 затмения серии 13 <span lang="EN-US">N</span></a>; 1 и 15 июня &ndash; затмения серии Ст. 13 <span lang="EN-US">S</span>, 1 июля солнечное затмение серии Нов. 13 <span lang="EN-US">S</span>; 25 ноября и 10 декабря затмения серии 14 <span lang="EN-US">N</span>.</p>
+
+<p class="MsoNormal">Затмения 1 и 15 июня, и 1 июля относятся к серии затмений 13 <span lang="EN-US">S</span>. Эта серия затмений имела начало 24 мая 803 года (ст. стиль), 12:56:24 <span lang="EN-US">GMT</span> на Южном полюсе. Ее конец 23 июня 2047 года. Здесь есть соединение Юпитер-Новолуние, Марс находится в средней точке новолуние/Сатурн. Энергия этого семейства затмений сходна с серией сароса 13 N: экспансивная энергия, под которой скрывается более зловещий оттенок. Присутствует побуждение к экспансии, но эта экспансия связана с тем, что присутствует разочарование, подавление, потери или разлуки.</p>
+
+<p class="MsoNormal">Затмение 25 ноября и 10 декабря относятся к серии 14 <span lang="EN-US">N</span>. Серия началась 29 апреля 1074 года (ст. стиль), 1:11:42 <span lang="EN-US">GMT</span>, на Северном Полюсе. Оно несет в себе энергии Нептуна и Сатурна, Венеры и Урана: Нептун в оппозиции с Сатурном, Венера находится в средней точке Уран/Нептун. Это очень специфическое семейство затмений. Оно возвещает о времени беспорядка, смятения в личных и коллективных взаимоотношениях, о неожиданных событиях в финансовой сфере и возможной болезни. Любовь без взаимности, отчаяние, смятение, истощение энергии, странные повороты событий. Сильное смятение и возможные заблуждения сильно искажают картину реальности, мешая принимать важные решения правильно.</p>
+
+<p class="MsoNormal">В 20 веке затмения серии 13 <span lang="EN-US">S</span> и серии 14 <span lang="EN-US">N</span>происходили в 1903, 1921, 1939, 1957, 1975, 1993.</p>
+
+<p>В истории Украины события 1903 года вытекают из <span>экономического кризиса 1900&mdash;1903 годов</span>&nbsp;&mdash; упадок в экономической сфере, затронувший большинство развитых стран и сопровождавшийся финансовым крахом ряда предприятий и резким падением уровня производства. В России, в состав которой входила тогда часть территории современной Украины, закрылось до 3 тысяч крупных и мелких предприятий. Свыше 100 тысяч наемных работников потеряли рабочие места. Заработная плата резко сокращалась. Борьба рабочих стала принимать все более революционный характер. От экономических стачек рабочие стали переходить к политическим стачкам, переходящим в демонстрации, выставляются политические требования о демократических свободах: &quot;Долой царское самодержавие&quot;. Наиболее крупные размеры приняли стачки в 1903 году. Восстали крупнейшие города Украины (Одесса, Киев, Екатеринослав). В отличие от прежних выступлений рабочего класса почти всюду политической борьбой стали руководить социал-демократические комитеты. Весной и летом 1902 года в Украине (в Полтавской и Харьковской губерниях) - крестьянское движение. Против восставших крестьян применялись военные силы, но протестное движение крестьян нарастало. Под влиянием революционной борьбы рабочих и крестьян усиливалось студенческое оппозиционное движение. Правительство в ответ закрыло университеты, арестовало сотни студентов непокорных студентов отправляли на службу солдатами в армию. В ответ на это учащиеся всех высших учебных заведений организовали зимой 1901-1902 года всеобщую стачку студентов. Революционное движение рабочих и крестьян и особенно репрессии в отношении студентов вызвали выступления протеста в среде либеральной буржуазии и либеральных помещиков.</p>
+
+<p class="MsoNormal">1921- голод<span>&nbsp; </span>на Юге Украины, на территориях, вошедших в состав<span>&nbsp; </span>СССР, экономический и политический кризис, Новая экономическая политика. Правительство Ленина приняло ряд декретов: продукты отпускаются по карточкам, бесплатное топливо, бесплатные коммунальные и почтово-телеграфные услуги. Подготовка к отмене денежного оборота. Протесты селян против запрета торговли и принудительного изъятия продовольствия. Правительство с помощью армии изымает у крестьян хлеб. Организаторов бунтов уничтожают как контрреволюционеров. После восстания в кронштадском гарнизоне Ленин инициировал временное отступление государственной партии от попыток заменить рыночный механизм регулирования народного хозяйства директивным управлением. Произошел переход к НЭПу: отменили продразверстку, вместо нее ввели налог на урожай 1921 года. Несмотря на хороший урожай в Левобережной и особенно Правобережной Украине, , непрерывные поставки в промышленные центры России привели к голоду. Но факт голода замалчивался. На шахтах Донбаса осенью 0921 был создан трехмесячный запас хлеба, тогда как в селах Донецкой губернии люди не имели ни зернинки. Центральное правительство Москвы, выбирая между крестьянами разных регионов, исходило из интересов укрепления своей власти: спасая голодающих Поволжья, выкачивало зерно с голодающего Юга Украины. Причина одна: с осени 1920 в УССР ширилось антибольшевистское повстанческое движение, которое Ленин назвал &laquo;куркульским бандитизмом&raquo;. Это ослабляло диктатуру партии, и руководство РКП(б) небезосновательно считало, что голод справится с восстаниями лучше, чем карательные экспедиции.</p>
+
+<p class="MsoNormal">1939 год вошел в истории Украины как год подписания германо-советского пакта от 23 августа. 1 сентября Гитлеровские войска атаковали Польшу, а 17 сентября сталинские атаковали Польшу под предлогом &laquo;освободительной миссии&raquo; Красной армии, вставшей на защиту &laquo;единокровных братьев&raquo; - украинцев и белорусов от нацистской неволи. В результате преступного сговора двух диктаторов произошло воссоединение украинских земель, разделенных до этого на протяжение столетий.</p>
+
+<p class="MsoNormal">1957 в истории Украины знаменит тем, что именно в этом году произошла первая важная реформа &laquo;великого десятилетия&raquo; пребывания Н.Хрущева (украинец по национальности) во главе партийно-государственного руководства СССР - замена отраслевого управления промышленностью территориальным. Летом 1957 было признано необходимым ликвидировать большинство отраслевых министерств и организовать вместо них территориальные советы народного хозяйства &ndash; совнархозы. В Украине создано 11 экономических административных районов, возглавленных совнархозами. Реформаторы были уверены в том, что неэффективность промышленности, ее незаинтересованность в научно-техническом прогрессе отпадут, если централизованное руководство заменить местным. Ситуация, однако, оказалось близкой басне Крылова &laquo;Квартет&raquo;. Ведь построение управления промышленностью по вертикали или горизонтали аж никак не затрагивала саму суть хозяйственного механизма. Предприятиям нужно было дать максимум самостоятельности в условиях рынка. Но рыночных способов производства не было. 1957 был годом подъема сельского хозяйства, поскольку государство вкладывало в эту отрасль большие деньги с 1954 года. Действительно, великим достижением Хрущева<span>&nbsp; </span>как политического деятеля <span>&nbsp;</span>был отказ от использования террористических методов в политике. Но плохо было то, что многочисленные реформы Хрущева создавали большой шумовой эффект, иллюзию непрерывной реформаторской деятельности, но не задевали основ тоталитаризма. В критических для системы ситуациях использовались сталинские методы. Например, подавление национальной революции в Будапеште в 1956 или выступлений трудящихся в Новочеркасске в 1962.</p>
+
+<p class="MsoNormal">1975 год начинает собой второе десятилетие &laquo;застоя&raquo; в СССР(1965 &ndash; 1985 &ndash; &laquo;застой). В Украине, бывшей тогда УССР, период &laquo;застоя&raquo; характеризовался бурным ростом добывающей отрасли, растрынькиванием природных богатств, превращением множества местностей в зоны экологического бедствия. Еще в дореволюционные времена существовала однобокая ориентация промышленности<span>&nbsp; </span>на так называемые &laquo;базовые отрасли&raquo;. Эта ориентация продолжалась в Украине и при СССР. Это привело к тому, что территории республики Украина загрязнялась отходами минерально-сырьевого комплекса в десять раз интенсивнее, чем в СССР в целом. Ежегодное добывание из недр более одного млрд. тонн полезных ископаемых сопровождалось вынесением на поверхность 2,5 млрд. тонн горных пород. Интенсивная эксплуатация исчерпала наиболее богатые месторождения. Особенно усложнились горно-геологические условия добычи угля. С каждой пятилеткой Донбасс давал все меньшие показатели, а себестоимость добычи угля возрастала. Плохая техническая оснащенность сказалась не только на продуктивности, но и на условиях труда шахтеров, создавала угрозу их жизни. В сельском хозяйстве дела шли не лучше. Самые плодородные<span>&nbsp; </span>в мире приднепровские заливные черноземы превратились в дно искусственных морей, мелиорированные грунты засолонялись, насыщенные химикатами сельхозпродукты становились опасными для здоровья людей. Ручной труд преобладал в общественном производстве. Не было возможности обеспечить высокопродуктивный труд в колхозах и совхозах, и власти шли по пути расширения посевных площадей, особенно в главных хлебопоизводящих регионах Украины. Земля распахивалась под сельхозугодья, и уровень распахивания достиг 80% против 25% в США и 48% во Франции.<span>&nbsp; </span>Это приводило к активизации процессов эрозии почвы. Украина каждый год теряла до 600 млн. тонн плодородных земель. Тех земель, которыми всегда славилась. <span>&nbsp;</span>В централизованные фонды уходила большая часть доходов совхозов и колхозов. Труженики села нищали. За 1966 &ndash; 1985 с украинского села выехало 4,6 млн. человек, в основном молодежь. Из-за этого вековая структура самозанятого сельского населения крайне ухудшилась. Если в 1960 сельские жители Украины составляли половину населения, то к 1985 &ndash; только треть. Продуктивность работы в селе почти не выросла за это время, и треть сельских жителей не могла прокормить население в городах. Возникла продовольственная проблема &ndash; один из признаков системного кризиса тоталитаризма. Легкая и пищевая промышленность испытывала постоянный дефицит качественных товаров народного потребления. При этом росла сеть закрытых магазинов, где отоваривались номенклатурщики. Руководящая элита покупала мелкими партиями высококачественные товары за рубежом. В бюджете СССР существовала огромная дыра из-за того, что нефтедоллары, заработанные Советским Союзом на мировом экономическом кризисе 70-х годов, были потрачены не на модернизацию и реформы, а на товары широкого потребления, за границей. Когда нефтедоллары кончились, видимость бюджетного благополучия поддерживалась тем, что у промышленных предприятий отбиралась не только основная часть прибыли, но и часть, предназначенная на полное восстановление средств производства. В результате уровень технического вооружения предприятий постоянно снижался. Зато особенно широко продавались спиртные напитки. Распространялся алкоголизм. Его масштабы стали угрожать генофонду страны.<span>&nbsp; </span>Но это замалчивалось.<span>&nbsp; </span>Охрана здоровья финансировалась<span>&nbsp; </span>крайне плохо. Занимая первое место в мире по количеству коек на душу населения, СССР невыгодно отличался от других стран слабой технической оснащенностью, качеством медицинских услуг. На подготовку врача-специалиста СССР тратил в десять раз меньше, чем высокоразвитые страны Запада. Кровати для больных стояли в коридорах. Но медучреждения для номенклатуры размещались в парковой зоне и оснащались новейшим импортным оборудованием, комплектовались отличными врачами, которым хорошо платили.<span>&nbsp; </span>Зато разросся, как раковая опухоль, военно-промышленный комплекс. Гонка вооружения заводила СССР в экономическую пропасть.<span>&nbsp; </span>Напротив, культурные учреждения не могли рассчитывать на большие ассигнования. Кризис культуры обозначился раньше кризиса экономики. Особенно страдала средняя школа и памятники истории. Нивелировались особенности национальной культуры. Документация учреждений постепенно переводилась на русский язык. Постоянно повышался вес русских издательств. В Киеве только 23% детей учились в украинских школах. Темпы целенаправленной русификации ускорялись. На территории УССР прирост населения быстро снижался, особенно украинцев. Численность украинцев также снижалась в республике за счет того, что выезжали из нее в основном украинцы, а прибывали преимущественно неукраинцы, в первую очередь русские, постоянно отъезжали за границу украинцы еврейской национальности. В результате в 80-х количество русских в Украине увеличилось почти так же, кА и украинцев в результате рождаемости. Вывод: ускорился процесс русификации коренного населения. Таким образом, два десятилетия &laquo;застоя&raquo;, партаппаратной диктатуры характеризовались не стагнацией, или застоем, а довольно-таки интенсивными процессами в сферах общественной жизни. Они носили негативный характер, поскольку политические, экономические и национально-культурные проблемы жизни общества, которые требовали срочного развязания, замалчивались и загонялись вглубь. Партийно-государственная верхушка искусственными способами поддерживала видимость внешнего благополучия. Естественно, что такая эгоистическая политика грозила социальным взрывом огромной силы.</p>
+
+<p class="MsoNormal"><span style="font-family: 'Times New Roman','serif';">1993 год в истории Украины знаменателен осложнением политической ситуации в результате глубокого экономического кризиса, к которому привели </span>непоследовательные реформы руководства страны. Донецкие и луганские шахтёры проводят массовые акции протеста. Идя навстречу политическим требованиям шахтёров, Верховная рада в 1993 году принимает решение о проведении всенародного референдума о доверии президенту и парламенту. Леонид Кравчук пытается отменить это решение и даже вынашивает планы досрочного роспуска Верховной рады&nbsp;&mdash; но, по словам самого Кравчука, ему приходится отказаться от этой мысли, поскольку его не поддержал министр внутренних дел Андрей Василишин. Тогда принимается решение о досрочных выборах Рады, которая на тот момент проработала уже четыре года, и досрочных выборах президента, избранного в 1991 году на пять лет.<span>&nbsp; </span>Досрочные выборы состоялись в июле<span style="color: windowtext; text-decoration: none;">1994</span>&nbsp;&mdash;к власти пришел<span>&nbsp; </span><span style="color: windowtext; text-decoration: none;">Леонид Кучма</span>. Выборы 1994 года показали, что наибольшей популярностью у избирателей пользовались в 1993 две партии&nbsp;&mdash; <span style="color: windowtext; text-decoration: none;">Коммунистическая партия Украины</span> и <span style="color: windowtext; text-decoration: none;">Народный Рух Украины</span>.</p>
+
+<p class="MsoNormal">Для семи затмений 2011 года (затмение 21 декабря 2010 относится к 2011 году, поскольку оно является лунным затмением серии 13 <span lang="EN-US">N</span>) общими являются такие положения планет затмения по отношению к важным точкам гороскопа Украины: <em>Плутон</em> затмения в соединении с МЦ Украины &ndash; указание на глубокие необратимые трансформации структуры государственной власти в Украине. <em>Нептун</em> затмения из 12 дома гороскопа Украины формирует сходящуюся оппозицию с Солнцем в гороскопе Украины.</p>
+
+<p class="MsoNormal">Солнце представляет принцип руководителя государства, президента страны. Этот аспект может давать неразбериху в государстве, вызванною замешательством, связанным с определением роли правителя государства как работника, нанятого народом на службу. Народу тяжело понять правителя, государственную власть, а им &mdash; народ. Народу и государственному правительству&nbsp; трудно ужиться друг с другом. Нежелание государственного аппарата прислушаться к точке зрения народа грозит интроверсией. Это может привести к пассивности правительства, потере занимаемого положения из-за эгоцентризма, к проблемам на государственной службе, трудностям в отношениях с народом и т. п. Правительство государства склонно слишком многого ожидать от народа и возмущаться теми, кто слишком многого требует от него. В своем наилучшем проявлении (редко достигающем максимума) этот транзит принесет правительству государства много друзей и редкого рода популярность, окружит его аурой необычного обаяния и магнетизма. Но для этого требуется чрезвычайная скромность, подлинное смирение духа и готовность отдать народу намного больше, чем правительство само получаете от него. Правительство поощряет талант народа к живописи, музыке или литературе. Данная оппозиция может указывать на неустойчивое положение власти в период кризиса, связанное с разочарованием народа в своем правительстве. Также это может быть указанием на раскрытие каких-то тайн, связанных с педставителями государственной власти, земельными олигархами, большим бизнесом.</p>
+
+<p class="MsoNormal"><em>Уран</em> затмения в Овне в 12 доме гороскопа Украины в трине к Хирону в 5 доме в гороскопе Украины: очень переменчивые ситуации в государстве, вызванные необходимостью реформ, потребностью освободиться от тех программ в государстве, которые мешают проявлению нации в труде (речь идет о мелком и среднем бизнесе, а наемном труде &ndash; Марс управитель АСЦ в 6 доме труда). Возможность необычного, нестандартного выхода из тупиковой ситуации, возникшей в государстве. Революционное настроение, творческий подъем у народа, активизация творческих способностей нации. Поскольку Хирон связан с материализацией тонкого плана, а в гороскопе Украины есть аспект оппозиции Хирона с ретроградным Сатурном в Водолее в 11 доме, речь может идти о проявлениях неких древних магических способностей нации, след которых виден в старинных легендах и преданиях украинского народа, как это ни странно звучит. Например, могут ожить предания о казаках-характерниках, образы которых часто использует в своих произведениях Н.В. Гоголь. Или предания об еще более древних украинских магах дохристианской эпохи. В любом случае, данный аспект указывает на какие-то из ряда вон выходящие события в Украине, которые плохо вписываются в материалистические представления о мире.</p>
+
+<p class="MsoNormal">Принцип Урана (новшества, бунтарство, креатив, революция, новации) активизируется квадратом <em>Сатурна</em> затмения летом на куспиде 7 дома к Урану в 10 доме гороскопа Украины: в сфере государственной власти наблюдаются процессы, связанные с реформированием существующих структур власти. В периоды этих транзитов обесцениваются многие устремления народа и государства и некоторые из них оставляются; другие по возможности откладываются на будущее; из оставшихся актуальных желаний наилучшие отбираются для осуществления в реальности. Пересмотренные таким образом приоритеты и предпочтения реструктурируют будущее. Аспекты Сатурна к транзитному Урану умеряют или рафинируют идеалы, в данный момент оказывающиеся на пути прогресса. Государство моможет отдавать в залог свои высшие надежды (в их числе привычные ценности будущего), ради приобретения более скорого удовлетворения потребностей народа и гсударства.В затмениях ноября и декабря Сатурн находится в седьмом доме, но не формирует соединения с куспидом седьмого дома: можно говорить о том, что главной болезненной сферой для Украины остается сфера партнерства, поиски путей сотрудничества, компромисса, а также тема вражды, противостояния, разрыва отношений с другими государствами или конфликт национальных сил с враждебными украинской нации силами внутри страны.</p>
+
+<p class="MsoNormal"><em>Юпитер</em> затмения в Овне в первом доме гороскопа Украины в трине к главному стеллиуму планет в гороскопе Украины в шестом доме:<span>&nbsp; </span>нация ощущает подъем национального самосознания, за счет чего повышается энергетика нации, ощущается потребность нации расширить свои возможности в мире и внутри государства. Энергия нации направлена на сферу малого и среднего бизнеса, труда по найму, сферу быта, повседневной жизни. Это вынуждает власть принимать ответственные решения относительно законов, языка и материального положения граждан, а также самого правителя государства.</p>
+
+<p class="MsoNormal">Солнечное затмения 1 июня серии Ст. 13 <span lang="EN-US">S</span>. попадает во 2 дом гороскопа Украины: энергии затмения поднимают тему благосостояния народа, страны, тему <span>&nbsp;</span>финансового положения государства, его материальных ресурсов и здоровья народа как энергетического ресурса. Марс этого затмения из 1 дома гороскопа формирует оппозицию к Плутону радикса. Это говорит об очень напряженной ситуации в государстве: вероятен подъем народно-освободительного движения против сил, представляющих собой враждебную интересам коренной нации власть в государстве, а также враждебные силы других государств. Это время освобождения и разоблачения тех дел в государстве, которые были глубоко скрыты. Оно может быть наполнено силовой борьбой, которая связана со столкновением с роковыми силами, представляющими врагов нации и государства &ndash; внешних и внутренних. Может разворачиваться мощная драма, вовлекающая в дела государства другие народы. Государство в трудных отношениях с партнерами и врагами, возможны разрывы отношений. Это затмение снабжает нацию новым &laquo;набором инструментов&raquo; для жизни. Нация пробьется к собственному источнику силы, как внешнему, так и внутреннему. Естественно, Плутон управляет смертью, сексом, налогами, страхованием, займами, отречением, родами. Все эти темы значимы<span>&nbsp; </span>во время затмения. Финансовый статус государства может значительно измениться в лучшую или худшую сторону. Эти изменения не происходит внезапно, а медленно нарастают.</p>
+
+<p class="MsoNormal">Лунное затмение 15 июля попадает в ось 3 &ndash; 9 домов, Солнце в 3 доме указывает на то, что сферой, над которой правительство государства и народа <span>&nbsp;</span>желают иметь контроль, является сфера транспорта, начального образования, национального языка, СМИ, торговли, ведения документации. Затмение формирует квадрат к Марсу в гороскопе Украины: это может указывать на настоящую смесь событий в государстве. С одной стороны, государство и народ могут сделать заметные успехи в поставленных целях. Затмение может принести новую работу труженикам в государстве, потому что Марс управляет способом применения энергии, а также смелостью, выносливостью, соперничеством, спорами, напористостью, боевитостью. Марс также символизирует единство нации.</p>
+
+<p class="MsoNormal">На данных аспектах нация может ощущать потребность консолидации сил, потребность в более сплоченных совместных действиях перед лицом внешнего или внутренного врага, угрожающего безопасности нации. Часто затмения к Марсу в гороскопе государства выражаются в драматических событиях. В любом случае следует ожидать повышенный уровень агрессии и /или профессиональной активности в сфере малого и среднего бизнеса, работы по найму, быта. Марс затмения на куспиде второго дома<span>&nbsp; </span>в квадрате к стеллиуму гороскопа Украины в 6 доме, точный квадрат с Юпитером: активность народа вызвана материальными интересами.Это может быть признаком недовольства народа положением дел в государстве в вопросах, связанных с богатством в стране: ресурсы страны, финансовое положение граждан, здоровье нации как энергетический ресурс. Агрессия народа в решении этих вопросов направлена на законодательство, особенно на ту его часть, которая отвечает за условия труда по найму <span>&nbsp;</span>в государстве, за условия работы малого и среднего бизнеса, быта, здравоохранения, работников в сфере образования, торговли, производителей товара интеллектуального свойства.</p>
+
+<p class="MsoNormal">Солнечное затмение 1 июля попадает в 4 дом гороскопа Украины. Это затмение в Южном Узле, Южный Узел в гороскопе Украины также находится в 4 доме. Поэтому можно говорить об особой важности этого затмения в жизни Украины.Здесь поднимаются вопросы безопасности и надежности в жизни украинцев &ndash; коренной нации государства. На повестке дня встают вопросы, связанные с<span>&nbsp; </span>землей и всем, что производит земля, с сельскохозяйственными потребностями, речь идет о фундаментальных или основных жизненных позицияй украинского общества и глубоких коренных традициях украинской нации, недвижимости, семьи и молодежи, обеспечении стариков и беспомощных. Затмение активизирует тему интересов &laquo;простых людей&raquo; в государстве, оппозиции правительству, идеологии народных масс и оппозиции. Особенно важную роль приобретает национализм &ndash; идеология, представляющая любовь к стране &ndash; и социализм &ndash; распространенная идеологии оппозиции в западных странах.</p>
+
+<p class="MsoNormal">Солнечное затмение в Восходящем Узле 25 ноября 2011 попадает в восьмой дом гороскопа Украины. Поскольку Украина имеет финансовые займы за границей, можно говорить о том, что данное затмение вызовет активность в сферах, связанных с урегулированием вопросов об имуществе Украины или о поступлении денег в государство от других государств или от сбережений граждан страны. При этом затмении может, вероятно, обнаружиться способ восстановления плохой кредитной линии. Украина может погашать свои финансовые долги и улаживать давно просроченные обязательства. Это может быть также время полной трансформации финансовой системы Украины. Также это затмение может поднимать вопрос о серьезном нарушении доверия Украины к другому государству или доверия украинской нации к тем силам, с которыми она имеет партнерские отношения.<span>&nbsp; </span></p>
+
+<p class="MsoNormal">Затмение в квадрате с Солнцем в гороскопе Украины. Солнце в гороскопе Украины находится в Деве в шестом доме. Это указание на то, что должность руководителя государства является в Украине службой - это должность наемного работника на службе у народа Украины. Данное затмение в большей степени, чем предыдущие затмения 2011 года, активизирует принцип Солнца в гороскопе Украины. Это может указывать на то, что руководитель государства оказывается в центре внимания и в центре событий.<span>&nbsp; </span>В жизни руководителя государства могут произойти очень значительные изменения, а в жизни государства этот период может стать поворотной точкой. Важные изменения могут касаться целей народа и правителей государства. Активность солнечного затмения в отношении Солнца в гороскопе государства может раскрыть интерес народа в отношении<span>&nbsp; </span>к должности и фигуре президента Украины. Юпитер этого затмения в квадрате с Сатурном гороскопа Украины: новые возможности и перспективы открываются перед исполнительной властью в государстве, а также в сфере государственной власти Украина может сделать новый шаг вперед (Сатурн в 11 доме управитель 10 дома).</p>
+
+<p class="MsoNormal">Лунное затмение 10 декабря 2011 проходит через ось 9 &ndash; 3 домов в гороскопе Украины. Солнце с Восходящим попадают на куспид 9 дома: правитель и народ хотят контролировать сферу законодательства в государстве, сферу высшего образования, издательства, взаимоотношения с соседними и более дальними государствами, сферу религии, национальной философии, идеологии в государстве. Сферой, где менее всего проявляется контроль со стороны правительства и народа, является сфера СМИ, дорог, языка общения граждан в государстве, мелкой торговли, начального образования.</p>
+
+<h4>Другие статьи на эту тему:</h4>
+
+<p><a href="../ukraine.html">Гороскоп Украины. Циклы планет.</a><br />
+<a href="../ukraine_history.html">История Украины в таблицах астрологических циклов</a><br />
+<a href="../eclipses_ukraine.html">Солнечные и лунные затмения в гороскопе Украины </a><br />
+<a href="../eclipses_ukraine_2010dec_jan.html">Затмения 21 декабря 2010 и 4 января 2011 в гороскопе Украины </a><br />
+<a href="../ukraine_solar2010.html">Гороскоп Украины: соляр 2010-2011</a></p>

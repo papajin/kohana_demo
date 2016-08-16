@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /admin
+Host: ivanets.com
+Sitemap: http://ivanets.com/map.xml
+Sitemap: http://ivanets.com/blog/index.php?xml_sitemap=params=
