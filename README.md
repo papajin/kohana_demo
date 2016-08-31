@@ -1,2 +1,2 @@
 # Koseven PHP Framework
-Live project: http://ivanets.com/
+Sample project for coding demo purpose.
