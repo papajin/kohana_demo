@@ -10,13 +10,14 @@ class Controller_Ajax extends Controller {
     {
         // No direct access expected
         $this->request->is_ajax() OR  die( ' --No access' );
-        
+
         parent::before();
 
-        // No cache
-        header( "Expires: Mon, 23 May 1995 02:00:00 GTM" );
-        header( "Last-Modified: " . gmdate( "D, d M Y H:i:s" ) . " GTM" );
-        header( "Cache-Control: no-cache, must-revalidate" );
-        header( "Pragma: no-cache" );
+        $this->response->headers( [
+            'Expires' => 'Mon, 23 May 1995 02:00:00 GTM',
+            'Last-Modified' => gmdate( "D, d M Y H:i:s" ) . " GTM",
+            'Cache-Control' => 'no-cache, must-revalidate',
+            'Pragma' => 'no-cache'
+        ] );
     }
 }
