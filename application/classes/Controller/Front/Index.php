@@ -109,9 +109,7 @@ class Controller_Front_Index extends Controller_Front {
         $this->styles[]  = 'owl';
 
         // Scripts
-        $this->scripts[] = 'appear';
-        $this->scripts[] = 'masonry';
-        $this->scripts[] = 'owl';
+        array_push( $this->scripts, 'appear', 'masonry', 'owl' );
     }
     
     private function articles( $vocab = FALSE )
@@ -260,11 +258,9 @@ class Controller_Front_Index extends Controller_Front {
                                             'calendars' => $calendars
                                         ] );
 
-        $this->styles[]  = 'almafont';
-        $this->styles[]  = 'magnific-popup';
+        array_push( $this->styles, 'almafont', 'magnific-popup' );
 
-        $this->scripts[] = 'magnific-popup';
-        $this->scripts[] = 'calendar';
+        array_push( $this->scripts, 'magnific-popup', 'calendar' );
     }
     
     private function schema()
@@ -278,10 +274,7 @@ class Controller_Front_Index extends Controller_Front {
 
             $this->styles[]  = 'astrochart';
 
-            $this->scripts[] = 'modal';
-            $this->scripts[] = 'zodiac';
-            $this->scripts[] = 'astrochart_' . I18n::lang();
-            $this->scripts[] = 'astrochart_ctls';
+            array_push( $this->scripts, 'modal', 'zodiac', 'astrochart_' . I18n::lang(), 'astrochart_ctls' );
         }
         else
         {

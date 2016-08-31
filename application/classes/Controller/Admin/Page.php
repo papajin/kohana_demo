@@ -20,8 +20,7 @@ class Controller_Admin_Page extends Controller_Admin {
         
         $this->content[] = View::factory( 'admin/a_page_index', [ 'pages' => $pages ] );
 
-        $this->scripts[] = 'sortable';
-        $this->scripts[] = 'page_index';
+        array_push( $this->scripts, 'sortable', 'page_index' );
     }
     
     public function action_edit()
@@ -73,8 +72,7 @@ class Controller_Admin_Page extends Controller_Admin {
                                              'options'  => $options ] );
         
         $this->page_title .= ':: ' . __( 'editing' );
-        $this->scripts[] = 'ckeditor';
-        $this->scripts[] = 'page_edit';
+        array_push( $this->scripts, 'ckeditor', 'page_edit' );
     }
     
     public function action_add()
@@ -126,7 +124,6 @@ class Controller_Admin_Page extends Controller_Admin {
                                               'options' => $options ] );
         
         $this->page_title .= ':: ' . __( 'new' );
-        $this->scripts[] = 'ckeditor';
-        $this->scripts[] = 'page_edit';
+        array_push( $this->scripts, 'ckeditor', 'page_edit' );
     }
 }

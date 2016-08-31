@@ -25,9 +25,9 @@ class Controller_Admin extends Controller_Template {
         if ( !$this->_auth->logged_in( 'admin' ) )
             HTTP::redirect( 'login?uri='.urlencode( $this->request->uri() ) );
 
-        // To template
-        $this->styles += [ 'fontello', 'bootstrap', 'tether', 'animate', 'admin' ];
-        $this->scripts += [ 'tether', 'bootstrap', 'modernizr', 'noty', 'admin', 'admin.' . I18n::lang() ];
+        // Into template
+        array_push( $this->styles, 'fontello', 'bootstrap', 'tether', 'animate', 'admin' );
+        array_push( $this->scripts, 'tether', 'bootstrap', 'modernizr', 'noty', 'admin', 'admin.' . I18n::lang() );
         
         $this->template->bind( 'page_title', $this->page_title );
         $this->template->menu_admin = Widget::load( 'Menuadmin' );

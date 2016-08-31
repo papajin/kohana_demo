@@ -35,8 +35,8 @@ class Controller_Front extends Controller_Template {
          * Frontend common styles and scripts.
          * More can be added in children controllers (lists are in corresponding configs).
          */
-        $this->styles += [ 'fontello', 'bootstrap', 'tether', 'style', 'light_green', 'animate' ];
-        $this->scripts += [ 'tether', 'bootstrap', 'modernizr', 'front' ];
+        array_push( $this->styles, 'fontello', 'bootstrap', 'tether', 'style', 'light_green', 'animate' );
+        array_push( $this->scripts, 'tether', 'bootstrap', 'modernizr', 'front' );
         
         $this->content[] = Widget::load( 'Topper' );
                 

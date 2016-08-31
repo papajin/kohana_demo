@@ -32,7 +32,6 @@ class Controller_Admin_Gallery extends Controller_Admin {
         $this->content[] = View::factory( 'admin/a_gallery', [ 'data' => $data ] );
         
         $this->page_title = sprintf( '%s:: %s', __( 'Galleries' ), __( 'editing' ) );
-        $this->scripts[] = 'sortable';
-        $this->scripts[] = 'gallery';
+        array_push( $this->scripts, 'sortable', 'gallery' );
     }
 }

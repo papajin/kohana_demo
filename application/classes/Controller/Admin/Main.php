@@ -19,7 +19,6 @@ class Controller_Admin_Main extends Controller_Admin {
         
         // Вывод в шаблон
         $this->page_title = sprintf( '%s:: %s', __( 'Administration' ), __( 'Home' ) );
-        $this->scripts[] = 'typeahead';
-        $this->scripts[] = 'main';
+        array_push( $this->scripts, 'typeahead', 'main' );
     }
 }

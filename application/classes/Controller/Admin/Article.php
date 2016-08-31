@@ -40,9 +40,7 @@ class Controller_Admin_Article extends Controller_Admin {
                                               'options'     => $options,
                                               'category_id' => $category_id ] );
         
-        $this->scripts[] = 'sortable';
-        $this->scripts[] = 'page_index';
-        $this->scripts[] = 'article_index';
+        array_push( $this->scripts, 'sortable', 'page_index', 'article_index' );
     }
     
     public function action_edit()
@@ -113,10 +111,8 @@ class Controller_Admin_Article extends Controller_Admin {
                                                 'tags'          => Widget::load( 'Tags' ) ] );
         
         $this->page_title .= ':: ' . __( 'editing' );
-        
-        $this->scripts[] = 'ckeditor';
-        $this->scripts[] = 'page_edit';
-        $this->scripts[] = 'article_edit';
+
+        array_push( $this->scripts, 'ckeditor', 'page_edit', 'article_edit' );
     }
     
     public function action_add()
@@ -181,7 +177,6 @@ class Controller_Admin_Article extends Controller_Admin {
                                               'categories' => $categories ] );
         
         $this->page_title .= ':: ' . __( 'new' );
-        $this->scripts[] = 'ckeditor';
-        $this->scripts[] = 'article_edit';
+        array_push( $this->scripts, 'ckeditor', 'article_edit' );
     }
 }
